@@ -1,0 +1,97 @@
+[Message: Preloader] BepInEx 6.0.0-be.665 - GTFO
+[Message: Preloader] Built from commit 6aabdb5ff9500fca541dbd66df7fbd7fe1dacd78
+[Info   :   BepInEx] System platform: Windows 10 64-bit
+[Info   :   BepInEx] Process bitness: 64-bit (x64)
+[Info   :   BepInEx] Running under Unity 2019.4.21f1
+[Info   :   BepInEx] Runtime version: 6.0.7
+[Info   :   BepInEx] Runtime information: .NET 6.0.7
+[Info   : Preloader] 0 patcher plugins loaded
+[Info   : Preloader] 0 assemblies discovered
+[Message:AssemblyPatcher] Executing 0 patch(es)
+[Message:   BepInEx] Chainloader initialized
+[Info   :Il2CppInterop] Registered mono type Il2CppInterop.Runtime.DelegateSupport+Il2CppToMonoDelegateReference in il2cpp domain
+[Info   :   BepInEx] 17 plugins to load
+[Info   :   BepInEx] Loading [GTFO-API 0.5.0]
+[Info   :Il2CppInterop] Registered mono type GTFO.API.Impl.NetworkAPI_Impl in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type GTFO.API.Impl.AssetAPI_Impl in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type GTFO.API.Wrappers.ItemWrapped in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type GTFO.API.Utilities.Impl.ThreadDispatcher_Impl in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type GTFO.API.Utilities.Impl.CoroutineDispatcher_Impl in il2cpp domain
+[Warning:  GTFO-API] [GTFO-API]: Syringes are currently disabled in this version
+[Info   :   BepInEx] Loading [FloatingTextAPI 1.0.5]
+[Warning:Il2CppInterop] Method Void Setup(FloatingTextAPI.IFloatingTextInfo) on type FloatingTextAPI.FloatingTextBase has unsupported parameter FloatingTextAPI.IFloatingTextInfo info of type FloatingTextAPI.IFloatingTextInfo
+[Warning:Il2CppInterop] Method Void SetText(System.String, FloatingTextAPI.IFloatingTextInfo) on type FloatingTextAPI.FloatingTextBase has unsupported parameter FloatingTextAPI.IFloatingTextInfo info of type FloatingTextAPI.IFloatingTextInfo
+[Info   :Il2CppInterop] Registered mono type FloatingTextAPI.FloatingTextBase in il2cpp domain
+[Info   :   BepInEx] Loading [MTFO 4.6.2+git44e73d7-dirty-main]
+[Warning:      MTFO] Plugin paths for gamedata are under legacy support and will be removed in the future. Considering migrating to the '\BepInEx\GameData' folder.
+[Info   :   BepInEx] Loading [DoubleJump 1.0.4]
+[Message:DoubleJump] DoubleJump version 1.0.4 by Mccad00 - Initializing
+[Info   :   BepInEx] Loading [MovementSpeedAPI 1.1.0]
+[Message:MovementSpeedAPI] Loaded MovementSpeedAPI
+[Info   :   BepInEx] Loading [DropItem 1.0.0]
+[Info   :Il2CppInterop] Registered mono type DropItem.Handlers.DropItemUpdater in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type DropItem.Handlers.DropItemInteractionHandler in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type DropItem.Handlers.DropItemGhostHandler in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type DropItem.Comps.ResourceContainerSlot in il2cpp domain
+[Info   :   BepInEx] Loading [EndskApi 1.2.1]
+[Error  :Il2CppInterop] Assembly EndskApi.dll is not registered in il2cpp
+[Info   :Il2CppInterop] Registered mono type EndskApi.Scripts.BaseMenu in il2cpp domain
+[Warning:Il2CppInterop] Method Void RemoveMiddleMouseClickTool(EndskApi.Information.Menus.IExtendedTool) on type EndskApi.Scripts.MainMenu has unsupported parameter EndskApi.Information.Menus.IExtendedTool Tool of type EndskApi.Information.Menus.IExtendedTool
+[Warning:Il2CppInterop] Method Void AddTimedTool(EndskApi.Information.Menus.IExtendedTool) on type EndskApi.Scripts.MainMenu has unsupported parameter EndskApi.Information.Menus.IExtendedTool tool of type EndskApi.Information.Menus.IExtendedTool
+[Warning:Il2CppInterop] Method Void RemoveTimedTool(EndskApi.Information.Menus.IExtendedTool) on type EndskApi.Scripts.MainMenu has unsupported parameter EndskApi.Information.Menus.IExtendedTool tool of type EndskApi.Information.Menus.IExtendedTool
+[Warning:Il2CppInterop] Method Void AddHiddenTool(EndskApi.Information.Menus.Tool) on type EndskApi.Scripts.MainMenu has unsupported parameter EndskApi.Information.Menus.Tool tool of type EndskApi.Information.Menus.Tool
+[Warning:Il2CppInterop] Method Void RemoveHiddenTool(EndskApi.Information.Menus.Tool) on type EndskApi.Scripts.MainMenu has unsupported parameter EndskApi.Information.Menus.Tool tool of type EndskApi.Information.Menus.Tool
+[Warning:Il2CppInterop] Method System.Object GetInformationPackage(EndskApi.Enums.Menus.InformationId) on type EndskApi.Scripts.MainMenu has unsupported return type System.Object
+[Warning:Il2CppInterop] Method Void MenuToggleUpdated(EndskApi.Information.Menus.Tool, Boolean) on type EndskApi.Scripts.MainMenu has unsupported parameter EndskApi.Information.Menus.Tool Tool of type EndskApi.Information.Menus.Tool
+[Warning:Il2CppInterop] Method EndskApi.Information.Menus.InputTool GetFreeKeypadInput() on type EndskApi.Scripts.MainMenu has unsupported return type EndskApi.Information.Menus.InputTool
+[Info   :Il2CppInterop] Registered mono type EndskApi.Scripts.MainMenu in il2cpp domain
+[Info   :   BepInEx] Loading [GTFuckingXP 2.4.9]
+[Warning:Il2CppInterop] Method GTFuckingXP.Information.Level.Level get_NextLevel() on type GTFuckingXP.Scripts.XpHandler has unsupported return type GTFuckingXP.Information.Level.Level
+[Warning:Il2CppInterop] Method Void set_NextLevel(GTFuckingXP.Information.Level.Level) on type GTFuckingXP.Scripts.XpHandler has unsupported parameter GTFuckingXP.Information.Level.Level value of type GTFuckingXP.Information.Level.Level
+[Warning:Il2CppInterop] Method Void AddXp(GTFuckingXP.Information.IXpData, UnityEngine.Vector3, Boolean, System.String) on type GTFuckingXP.Scripts.XpHandler has unsupported parameter GTFuckingXP.Information.IXpData xpData of type GTFuckingXP.Information.IXpData
+[Warning:Il2CppInterop] Method Void ChangeCurrentLevel(GTFuckingXP.Information.Level.Level, GTFuckingXP.Information.Level.BoosterBuffs, Boolean) on type GTFuckingXP.Scripts.XpHandler has unsupported parameter GTFuckingXP.Information.Level.Level newLevel of type GTFuckingXP.Information.Level.Level
+[Warning:Il2CppInterop] Method Void ApplySingleUseBuffs(GTFuckingXP.Information.Level.Level) on type GTFuckingXP.Scripts.XpHandler has unsupported parameter GTFuckingXP.Information.Level.Level reachedLevel of type GTFuckingXP.Information.Level.Level
+[Warning:Il2CppInterop] Method Boolean <CheckForLevelThresholdReached>b__16_0(GTFuckingXP.Information.Level.Level) on type GTFuckingXP.Scripts.XpHandler has unsupported parameter GTFuckingXP.Information.Level.Level it of type GTFuckingXP.Information.Level.Level
+[Info   :Il2CppInterop] Registered mono type GTFuckingXP.Scripts.XpHandler in il2cpp domain
+[Warning:Il2CppInterop] Method Void UpdateUiString(GTFuckingXP.Information.Level.Level, GTFuckingXP.Information.Level.Level, UInt32, System.String) on type GTFuckingXP.Scripts.XpBar has unsupported parameter GTFuckingXP.Information.Level.Level currentLevel of type GTFuckingXP.Information.Level.Level
+[Info   :Il2CppInterop] Registered mono type GTFuckingXP.Scripts.XpBar in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type GTFuckingXP.Scripts.DevModeTools in il2cpp domain
+[Warning:Il2CppInterop] Method Void ReloadData(EndskApi.Information.Menus.Tool) on type GTFuckingXP.Scripts.DevTools has unsupported parameter EndskApi.Information.Menus.Tool _ of type EndskApi.Information.Menus.Tool
+[Warning:Il2CppInterop] Method Void LevelUp(EndskApi.Information.Menus.Tool) on type GTFuckingXP.Scripts.DevTools has unsupported parameter EndskApi.Information.Menus.Tool _ of type EndskApi.Information.Menus.Tool
+[Warning:Il2CppInterop] Method Void LevelDown(EndskApi.Information.Menus.Tool) on type GTFuckingXP.Scripts.DevTools has unsupported parameter EndskApi.Information.Menus.Tool _ of type EndskApi.Information.Menus.Tool
+[Warning:Il2CppInterop] Method Void ChangeClass(EndskApi.Information.Menus.Tool) on type GTFuckingXP.Scripts.DevTools has unsupported parameter EndskApi.Information.Menus.Tool _ of type EndskApi.Information.Menus.Tool
+[Info   :Il2CppInterop] Registered mono type GTFuckingXP.Scripts.DevTools in il2cpp domain
+[Info   :   BepInEx] Loading [XpExpansions 1.0.0]
+[Info   :Il2CppInterop] Registered mono type XpExpansions.Scripts.ClientSidedBioTrackerAbility in il2cpp domain
+[Info   :   BepInEx] Loading [GTFO.LobbyExpansion 1.2.0]
+[Info   :   BepInEx] Loading [LocaliaCore 3.0.0]
+[Info   :Il2CppInterop] Registered mono type LocaliaCore.LocaliaCore_Moniter in il2cpp domain
+[Message:LocaliaCore] OK
+[Info   :   BepInEx] Loading [ModList 3.0.0]
+[Message:   ModList] OK
+[Info   :   BepInEx] Loading [PerfectBoosters 3.0.1]
+[Message:Localia.PerfectBoosters] OK
+[Info   :   BepInEx] Loading [PingEverything 3.0.1]
+[Info   :   BepInEx] Loading [ResourceHelper 3.0.0]
+[Info   :Il2CppInterop] Registered mono type ResourceHelper.Res_Moniter in il2cpp domain
+[Message:Localia.ResourceHelper] OK
+[Info   :   BepInEx] Loading [RunAndGun 1.0.1]
+[Info   :   BepInEx] Loading [Weapon Stat Shower 1.4.0]
+[Info   :Weapon Stat Shower] STARTED
+[Info   :Weapon Stat Shower] Applying patch: ShowStat
+[Message:   BepInEx] Chainloader startup complete
+[Warning:GTFuckingXP] No custom MTFO folder found, using assembly path...
+[Info   :Il2CppInterop] Registered mono type BepInEx.Unity.IL2CPP.Utils.Collections.Il2CppManagedEnumerator in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type MTFO.Custom.CCP.Components.CorePuzzleData in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type MTFO.Custom.CCP.Components.ClusterPuzzleData in il2cpp domain
+[Warning:  EndskApi] There was no informaiton with the key AnchorDifferenceKey
+[Warning:GTFuckingXP] Saved layout to D:\SteamLibrary\steamapps\common\GTFO\BepInEx\GameData/Favorites\XPData.json
+[Warning:  EndskApi] There was no informaiton with the key GTFuckingXP.Scripts.XpHandler
+[Warning:  EndskApi] There was no informaiton with the key 76561199065924838
+[Warning:  EndskApi] There was no informaiton with the key GTFuckingXP.Scripts.DevModeTools
+[Error  :Il2CppInterop] During invoking native->managed trampoline
+Exception: System.NullReferenceException: Object reference not set to an instance of an object.
+   at GTFuckingXP.Managers.CustomScalingBuffManager.ResetCustomBuffs(PlayerAgent targetAgent)
+   at GTFuckingXP.Managers.ScriptManager.EndLevelScripts()
+   at DMD<GS_AfterLevel::CleanupAfterExpedition>()
+   at (il2cpp -> managed) CleanupAfterExpedition(Il2CppMethodInfo* )

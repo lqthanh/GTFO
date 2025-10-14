@@ -1,0 +1,1220 @@
+
+[
+  {
+    "ClassLayoutPersistentId": 2,
+    "ActiveLevels": [
+      10
+    ],
+    "ValueToBoosterEffects": {
+      "RegenerationSpeed": 1.35
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 3,
+    "ActiveLevels": [
+      1
+    ],
+    "ValueToBoosterEffects": {
+      "MeleeResistance": 1.03,
+      "ProjectileResistance": 1.03,
+      "InfectionResistance": 1.03
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 3,
+    "ActiveLevels": [
+      2
+    ],
+    "ValueToBoosterEffects": {
+      "MeleeResistance": 1.06,
+      "ProjectileResistance": 1.06,
+      "InfectionResistance": 1.06
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 3,
+    "ActiveLevels": [
+      3
+    ],
+    "ValueToBoosterEffects": {
+      "MeleeResistance": 1.09,
+      "ProjectileResistance": 1.09,
+      "InfectionResistance": 1.09
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 3,
+    "ActiveLevels": [
+      4
+    ],
+    "ValueToBoosterEffects": {
+      "MeleeResistance": 1.12,
+      "ProjectileResistance": 1.12,
+      "InfectionResistance": 1.12
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 3,
+    "ActiveLevels": [
+      5
+    ],
+    "ValueToBoosterEffects": {
+      "MeleeResistance": 1.15,
+      "ProjectileResistance": 1.15,
+      "InfectionResistance": 1.15
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 3,
+    "ActiveLevels": [
+      6
+    ],
+    "ValueToBoosterEffects": {
+      "MeleeResistance": 1.18,
+      "ProjectileResistance": 1.18,
+      "InfectionResistance": 1.18
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 3,
+    "ActiveLevels": [
+      7
+    ],
+    "ValueToBoosterEffects": {
+      "MeleeResistance": 1.21,
+      "ProjectileResistance": 1.21,
+      "InfectionResistance": 1.21
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 3,
+    "ActiveLevels": [
+      8
+    ],
+    "ValueToBoosterEffects": {
+      "MeleeResistance": 1.24,
+      "ProjectileResistance": 1.24,
+      "InfectionResistance": 1.24
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 3,
+    "ActiveLevels": [
+      9
+    ],
+    "ValueToBoosterEffects": {
+      "MeleeResistance": 1.27,
+      "ProjectileResistance": 1.27,
+      "InfectionResistance": 1.27
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 3,
+    "ActiveLevels": [
+      10
+    ],
+    "ValueToBoosterEffects": {
+      "MeleeResistance": 1.3,
+      "ProjectileResistance": 1.3,
+      "InfectionResistance": 1.3
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 3,
+    "ActiveLevels": [
+      11
+    ],
+    "ValueToBoosterEffects": {
+      "MeleeResistance": 1.33,
+      "ProjectileResistance": 1.33,
+      "InfectionResistance": 1.33
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 3,
+    "ActiveLevels": [
+      12
+    ],
+    "ValueToBoosterEffects": {
+      "MeleeResistance": 1.36,
+      "ProjectileResistance": 1.36,
+      "InfectionResistance": 1.36
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 3,
+    "ActiveLevels": [
+      13
+    ],
+    "ValueToBoosterEffects": {
+      "MeleeResistance": 1.39,
+      "ProjectileResistance": 1.39,
+      "InfectionResistance": 1.39
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 3,
+    "ActiveLevels": [
+      14
+    ],
+    "ValueToBoosterEffects": {
+      "MeleeResistance": 1.42,
+      "ProjectileResistance": 1.42,
+      "InfectionResistance": 1.42
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 3,
+    "ActiveLevels": [
+      15
+    ],
+    "ValueToBoosterEffects": {
+      "MeleeResistance": 1.45,
+      "ProjectileResistance": 1.45,
+      "InfectionResistance": 2.0
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 4,
+    "ActiveLevels": [
+      1
+    ],
+    "ValueToBoosterEffects": {
+      "RegenerationSpeed": 1.35,
+      "ReviveSpeedSupport": 1.25
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 4,
+    "ActiveLevels": [
+      2
+    ],
+    "ValueToBoosterEffects": {
+      "RegenerationSpeed": 1.7,
+      "ReviveSpeedSupport": 1.5
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 4,
+    "ActiveLevels": [
+      3
+    ],
+    "ValueToBoosterEffects": {
+      "RegenerationSpeed": 2.05,
+      "ReviveSpeedSupport": 1.75
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 4,
+    "ActiveLevels": [
+      4
+    ],
+    "ValueToBoosterEffects": {
+      "RegenerationSpeed": 2.40,
+      "ReviveSpeedSupport": 2.0
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 4,
+    "ActiveLevels": [
+      5
+    ],
+    "ValueToBoosterEffects": {
+      "RegenerationSpeed": 2.75,
+      "ReviveSpeedSupport": 2.25,
+      "MeleeResistance": 1.15,
+      "ProjectileResistance": 1.15
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 15,
+    "ActiveLevels": [
+      5
+    ],
+    "ValueToBoosterEffects": {
+      "InfectionResistance": 2.0
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 12,
+    "ActiveLevels": [
+      1
+    ],
+    "ValueToBoosterEffects": {
+      "RegenerationSpeed": 1.35,
+      "ReviveSpeedSupport": 1.1,
+      "MeleeResistance": 1.04,
+      "ProjectileResistance": 1.04,
+      "InfectionResistance": 1.05
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 12,
+    "ActiveLevels": [
+      2
+    ],
+    "ValueToBoosterEffects": {
+      "RegenerationSpeed": 1.7,
+      "ReviveSpeedSupport": 1.2,
+      "MeleeResistance": 1.08,
+      "ProjectileResistance": 1.08,
+      "InfectionResistance": 1.1
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 12,
+    "ActiveLevels": [
+      3
+    ],
+    "ValueToBoosterEffects": {
+      "RegenerationSpeed": 2.05,
+      "ReviveSpeedSupport": 1.3,
+      "MeleeResistance": 1.12,
+      "ProjectileResistance": 1.12,
+      "InfectionResistance": 1.15
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 12,
+    "ActiveLevels": [
+      4
+    ],
+    "ValueToBoosterEffects": {
+      "RegenerationSpeed": 2.40,
+      "ReviveSpeedSupport": 1.4,
+      "MeleeResistance": 1.16,
+      "ProjectileResistance": 1.16,
+      "InfectionResistance": 1.2
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 12,
+    "ActiveLevels": [
+      5
+    ],
+    "ValueToBoosterEffects": {
+      "RegenerationSpeed": 2.75,
+      "ReviveSpeedSupport": 1.5,
+      "MeleeResistance": 1.2,
+      "ProjectileResistance": 1.2,
+      "InfectionResistance": 2.0
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 5,
+    "ActiveLevels": [
+      1
+    ],
+    "ValueToBoosterEffects": {
+      "HackingProficiency": 1.55,
+      "ScannerRechargeSpeed": 1.15,
+      "SentryGunDamage": 1.15,
+      "GlueEfficiency": 1.15,
+      "TripMineDamage": 1.15,
+      "ComputerProcessingSpeed": 1.2,
+      "FogRepellerEffect": 1.2
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 5,
+    "ActiveLevels": [
+      2
+    ],
+    "ValueToBoosterEffects": {
+      "HackingProficiency": 2.1,
+      "ScannerRechargeSpeed": 1.3,
+      "SentryGunDamage": 1.3,
+      "GlueEfficiency": 1.3,
+      "TripMineDamage": 1.3,
+      "ComputerProcessingSpeed": 1.4,
+      "FogRepellerEffect": 1.4
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 5,
+    "ActiveLevels": [
+      3
+    ],
+    "ValueToBoosterEffects": {
+      "HackingProficiency": 2.65,
+      "ScannerRechargeSpeed": 1.45,
+      "SentryGunDamage": 1.45,
+      "GlueEfficiency": 1.45,
+      "TripMineDamage": 1.45,
+      "ComputerProcessingSpeed": 1.6,
+      "FogRepellerEffect": 1.6
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 5,
+    "ActiveLevels": [
+      4
+    ],
+    "ValueToBoosterEffects": {
+      "HackingProficiency": 3.2,
+      "ScannerRechargeSpeed": 1.6,
+      "SentryGunDamage": 1.6,
+      "GlueEfficiency": 1.6,
+      "TripMineDamage": 1.6,
+      "ComputerProcessingSpeed": 1.8,
+      "FogRepellerEffect": 1.8
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 5,
+    "ActiveLevels": [
+      5
+    ],
+    "ValueToBoosterEffects": {
+      "HackingProficiency": 999.0,
+      "ScannerRechargeSpeed": 1.8,
+      "SentryGunDamage": 1.75,
+      "GlueEfficiency": 1.75,
+      "TripMineDamage": 1.75,
+      "ComputerProcessingSpeed": 999.0,
+      "FogRepellerEffect": 2.0
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 6,
+    "ActiveLevels": [
+      1
+    ],
+    "ValueToBoosterEffects": {
+      "MeleeResistance": 0.5,
+      "ProjectileResistance": 0.5
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 6,
+    "ActiveLevels": [
+      1
+    ],
+    "ValueToBoosterEffects": {
+      "RegenerationSpeed": 1.5,
+      "MeleeResistance": 0.46,
+      "ProjectileResistance": 0.46
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 6,
+    "ActiveLevels": [
+      2
+    ],
+    "ValueToBoosterEffects": {
+      "RegenerationSpeed": 2.0,
+      "MeleeResistance": 0.42,
+      "ProjectileResistance": 0.42
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 6,
+    "ActiveLevels": [
+      3
+    ],
+    "ValueToBoosterEffects": {
+      "RegenerationSpeed": 2.5,
+      "MeleeResistance": 0.38,
+      "ProjectileResistance": 0.38
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 6,
+    "ActiveLevels": [
+      4
+    ],
+    "ValueToBoosterEffects": {
+      "RegenerationSpeed": 3.0,
+      "MeleeResistance": 0.34,
+      "ProjectileResistance": 0.34
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 6,
+    "ActiveLevels": [
+      5
+    ],
+    "ValueToBoosterEffects": {
+      "RegenerationSpeed": 3.5,
+      "MeleeResistance": 0.3,
+      "ProjectileResistance": 0.3
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 7,
+    "ActiveLevels": [
+      1
+    ],
+    "ValueToBoosterEffects": {
+      "MeleeResistance": 1.04,
+      "ProjectileResistance": 1.04
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 7,
+    "ActiveLevels": [
+      2
+    ],
+    "ValueToBoosterEffects": {
+      "MeleeResistance": 1.08,
+      "ProjectileResistance": 1.08
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 7,
+    "ActiveLevels": [
+      3
+    ],
+    "ValueToBoosterEffects": {
+      "MeleeResistance": 1.12,
+      "ProjectileResistance": 1.12
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 7,
+    "ActiveLevels": [
+      4
+    ],
+    "ValueToBoosterEffects": {
+      "MeleeResistance": 1.16,
+      "ProjectileResistance": 1.16
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 7,
+    "ActiveLevels": [
+      5
+    ],
+    "ValueToBoosterEffects": {
+      "MeleeResistance": 1.2,
+      "ProjectileResistance": 1.2
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 8,
+    "ActiveLevels": [
+      0
+    ],
+    "ValueToBoosterEffects": {
+      "MeleeResistance": 0.55,
+      "ProjectileResistance": 0.55
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 8,
+    "ActiveLevels": [
+      1
+    ],
+    "ValueToBoosterEffects": {
+      "MeleeResistance": 0.6,
+      "ProjectileResistance": 0.6
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 8,
+    "ActiveLevels": [
+      2
+    ],
+    "ValueToBoosterEffects": {
+      "MeleeResistance": 0.65,
+      "ProjectileResistance": 0.65
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 8,
+    "ActiveLevels": [
+      3
+    ],
+    "ValueToBoosterEffects": {
+      "MeleeResistance": 0.7,
+      "ProjectileResistance": 0.7
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 8,
+    "ActiveLevels": [
+      4
+    ],
+    "ValueToBoosterEffects": {
+      "MeleeResistance": 0.75,
+      "ProjectileResistance": 0.75
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 8,
+    "ActiveLevels": [
+      5
+    ],
+    "ValueToBoosterEffects": {
+      "MeleeResistance": 0.8,
+      "ProjectileResistance": 0.8
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 9,
+    "ActiveLevels": [
+      0
+    ],
+    "ValueToBoosterEffects": {
+      "MeleeResistance": 0.6,
+      "ProjectileResistance": 0.6
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 9,
+    "ActiveLevels": [
+      1
+    ],
+    "ValueToBoosterEffects": {
+      "MeleeResistance": 0.63,
+      "ProjectileResistance": 0.63
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 9,
+    "ActiveLevels": [
+      2
+    ],
+    "ValueToBoosterEffects": {
+      "MeleeResistance": 0.66,
+      "ProjectileResistance": 0.66
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 9,
+    "ActiveLevels": [
+      3
+    ],
+    "ValueToBoosterEffects": {
+      "MeleeResistance": 0.69,
+      "ProjectileResistance": 0.69
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 9,
+    "ActiveLevels": [
+      4
+    ],
+    "ValueToBoosterEffects": {
+      "MeleeResistance": 0.72,
+      "ProjectileResistance": 0.72
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 9,
+    "ActiveLevels": [
+      5
+    ],
+    "ValueToBoosterEffects": {
+      "MeleeResistance": 0.75,
+      "ProjectileResistance": 0.75
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 9,
+    "ActiveLevels": [
+      6
+    ],
+    "ValueToBoosterEffects": {
+      "MeleeResistance": 0.78,
+      "ProjectileResistance": 0.78
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 9,
+    "ActiveLevels": [
+      7
+    ],
+    "ValueToBoosterEffects": {
+      "MeleeResistance": 0.81,
+      "ProjectileResistance": 0.81
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 9,
+    "ActiveLevels": [
+      8
+    ],
+    "ValueToBoosterEffects": {
+      "MeleeResistance": 0.84,
+      "ProjectileResistance": 0.84
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 9,
+    "ActiveLevels": [
+      9
+    ],
+    "ValueToBoosterEffects": {
+      "MeleeResistance": 0.87,
+      "ProjectileResistance": 0.87
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 9,
+    "ActiveLevels": [
+      10
+    ],
+    "ValueToBoosterEffects": {
+      "MeleeResistance": 0.9,
+      "ProjectileResistance": 0.9
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 11,
+    "ActiveLevels": [
+      1
+    ],
+    "ValueToBoosterEffects": {
+      "MeleeResistance": 1.02,
+      "ProjectileResistance": 1.05,
+      "InfectionResistance": 2.0
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 11,
+    "ActiveLevels": [
+      2
+    ],
+    "ValueToBoosterEffects": {
+      "MeleeResistance": 1.04,
+      "ProjectileResistance": 1.1,
+      "InfectionResistance": 2
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 11,
+    "ActiveLevels": [
+      3
+    ],
+    "ValueToBoosterEffects": {
+      "MeleeResistance": 1.06,
+      "ProjectileResistance": 1.15,
+      "InfectionResistance": 2
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 11,
+    "ActiveLevels": [
+      4
+    ],
+    "ValueToBoosterEffects": {
+      "MeleeResistance": 1.08,
+      "ProjectileResistance": 1.2,
+      "InfectionResistance": 2
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 11,
+    "ActiveLevels": [
+      5
+    ],
+    "ValueToBoosterEffects": {
+      "MeleeResistance": 1.10,
+      "ProjectileResistance": 1.25,
+      "InfectionResistance": 2
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 11,
+    "ActiveLevels": [
+      6
+    ],
+    "ValueToBoosterEffects": {
+      "MeleeResistance": 1.12,
+      "ProjectileResistance": 1.3,
+      "InfectionResistance": 2
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 11,
+    "ActiveLevels": [
+      7
+    ],
+    "ValueToBoosterEffects": {
+      "MeleeResistance": 1.14,
+      "ProjectileResistance": 1.35,
+      "InfectionResistance": 2
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 11,
+    "ActiveLevels": [
+      8
+    ],
+    "ValueToBoosterEffects": {
+      "MeleeResistance": 1.16,
+      "ProjectileResistance": 1.4,
+      "InfectionResistance": 2
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 11,
+    "ActiveLevels": [
+      9
+    ],
+    "ValueToBoosterEffects": {
+      "MeleeResistance": 1.18,
+      "ProjectileResistance": 1.45,
+      "InfectionResistance": 2
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 11,
+    "ActiveLevels": [
+      10
+    ],
+    "ValueToBoosterEffects": {
+      "MeleeResistance": 1.2,
+      "ProjectileResistance": 1.5,
+      "InfectionResistance": 2
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 11,
+    "ActiveLevels": [
+      11
+    ],
+    "ValueToBoosterEffects": {
+      "MeleeResistance": 1.22,
+      "ProjectileResistance": 1.55,
+      "InfectionResistance": 2
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 11,
+    "ActiveLevels": [
+      12
+    ],
+    "ValueToBoosterEffects": {
+      "MeleeResistance": 1.24,
+      "ProjectileResistance": 1.6,
+      "InfectionResistance": 2
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 11,
+    "ActiveLevels": [
+      13
+    ],
+    "ValueToBoosterEffects": {
+      "MeleeResistance": 1.26,
+      "ProjectileResistance": 1.65,
+      "InfectionResistance": 2.0
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 11,
+    "ActiveLevels": [
+      14
+    ],
+    "ValueToBoosterEffects": {
+      "MeleeResistance": 1.28,
+      "ProjectileResistance": 1.7,
+      "InfectionResistance": 2.0
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 11,
+    "ActiveLevels": [
+      15
+    ],
+    "ValueToBoosterEffects": {
+      "MeleeResistance": 1.3,
+      "ProjectileResistance": 1.75,
+      "InfectionResistance": 2.0
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 16,
+    "ActiveLevels": [
+      1
+    ],
+    "ValueToBoosterEffects": {
+      "ScannerRechargeSpeed": 1.15,
+      "SentryGunDamage": 1.15,
+      "GlueEfficiency": 1.15,
+      "TripMineDamage": 1.15,
+      "FogRepellerEffect": 1.6,
+      "InfectionResistance": 2.0
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 16,
+    "ActiveLevels": [
+      2
+    ],
+    "ValueToBoosterEffects": {
+      "ScannerRechargeSpeed": 1.3,
+      "SentryGunDamage": 1.3,
+      "GlueEfficiency": 1.3,
+      "TripMineDamage": 1.3,
+      "FogRepellerEffect": 2.2,
+      "InfectionResistance": 2.0
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 16,
+    "ActiveLevels": [
+      3
+    ],
+    "ValueToBoosterEffects": {
+      "ScannerRechargeSpeed": 1.45,
+      "SentryGunDamage": 1.45,
+      "GlueEfficiency": 1.45,
+      "TripMineDamage": 1.45,
+      "FogRepellerEffect": 2.8,
+      "InfectionResistance": 2.0
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 16,
+    "ActiveLevels": [
+      4
+    ],
+    "ValueToBoosterEffects": {
+      "ScannerRechargeSpeed": 1.6,
+      "SentryGunDamage": 1.6,
+      "GlueEfficiency": 1.6,
+      "TripMineDamage": 1.6,
+      "FogRepellerEffect": 3.4,
+      "InfectionResistance": 2.0
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 16,
+    "ActiveLevels": [
+      5
+    ],
+    "ValueToBoosterEffects": {
+      "ScannerRechargeSpeed": 1.15,
+      "SentryGunDamage": 1.75,
+      "GlueEfficiency": 1.75,
+      "TripMineDamage": 1.75,
+      "FogRepellerEffect": 15.0,
+      "InfectionResistance": 2.0
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 13,
+    "ActiveLevels": [
+      1
+    ],
+    "ValueToBoosterEffects": {
+      "HackingProficiency": 1.1,
+      "ScannerRechargeSpeed": 1.05,
+      "SentryGunDamage": 1.05,
+      "GlueEfficiency": 1.05,
+      "TripMineDamage": 1.05,
+      "ComputerProcessingSpeed": 1.05,
+      "FogRepellerEffect": 1.05,
+      "MeleeResistance": 1.02,
+      "ProjectileResistance": 1.02,
+      "InfectionResistance": 1.02
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 13,
+    "ActiveLevels": [
+      2
+    ],
+    "ValueToBoosterEffects": {
+      "HackingProficiency": 1.2,
+      "ScannerRechargeSpeed": 1.1,
+      "SentryGunDamage": 1.1,
+      "GlueEfficiency": 1.1,
+      "TripMineDamage": 1.1,
+      "ComputerProcessingSpeed": 1.1,
+      "FogRepellerEffect": 1.1,
+      "MeleeResistance": 1.04,
+      "ProjectileResistance": 1.04,
+      "InfectionResistance": 1.04
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 13,
+    "ActiveLevels": [
+      3
+    ],
+    "ValueToBoosterEffects": {
+      "HackingProficiency": 1.3,
+      "ScannerRechargeSpeed": 1.15,
+      "SentryGunDamage": 1.15,
+      "GlueEfficiency": 1.15,
+      "TripMineDamage": 1.15,
+      "ComputerProcessingSpeed": 1.15,
+      "FogRepellerEffect": 1.15,
+      "MeleeResistance": 1.06,
+      "ProjectileResistance": 1.06,
+      "InfectionResistance": 1.06
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 13,
+    "ActiveLevels": [
+      4
+    ],
+    "ValueToBoosterEffects": {
+      "HackingProficiency": 1.4,
+      "ScannerRechargeSpeed": 1.2,
+      "SentryGunDamage": 1.2,
+      "GlueEfficiency": 1.2,
+      "TripMineDamage": 1.2,
+      "ComputerProcessingSpeed": 1.2,
+      "FogRepellerEffect": 1.2,
+      "MeleeResistance": 1.08,
+      "ProjectileResistance": 1.08,
+      "InfectionResistance": 1.08
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 13,
+    "ActiveLevels": [
+      5
+    ],
+    "ValueToBoosterEffects": {
+      "HackingProficiency": 1.5,
+      "ScannerRechargeSpeed": 1.25,
+      "SentryGunDamage": 1.25,
+      "GlueEfficiency": 1.25,
+      "TripMineDamage": 1.25,
+      "ComputerProcessingSpeed": 1.25,
+      "FogRepellerEffect": 1.25,
+      "MeleeResistance": 1.1,
+      "ProjectileResistance": 1.1,
+      "InfectionResistance": 1.1
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 13,
+    "ActiveLevels": [
+      6
+    ],
+    "ValueToBoosterEffects": {
+      "HackingProficiency": 1.6,
+      "ScannerRechargeSpeed": 1.3,
+      "SentryGunDamage": 1.3,
+      "GlueEfficiency": 1.3,
+      "TripMineDamage": 1.3,
+      "ComputerProcessingSpeed": 1.3,
+      "FogRepellerEffect": 1.3,
+      "MeleeResistance": 1.12,
+      "ProjectileResistance": 1.12,
+      "InfectionResistance": 1.12
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 13,
+    "ActiveLevels": [
+      7
+    ],
+    "ValueToBoosterEffects": {
+      "HackingProficiency": 1.7,
+      "ScannerRechargeSpeed": 1.35,
+      "SentryGunDamage": 1.35,
+      "GlueEfficiency": 1.35,
+      "TripMineDamage": 1.35,
+      "ComputerProcessingSpeed": 1.35,
+      "FogRepellerEffect": 1.35,
+      "MeleeResistance": 1.14,
+      "ProjectileResistance": 1.14,
+      "InfectionResistance": 1.14
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 13,
+    "ActiveLevels": [
+      8
+    ],
+    "ValueToBoosterEffects": {
+      "HackingProficiency": 1.8,
+      "ScannerRechargeSpeed": 1.4,
+      "SentryGunDamage": 1.4,
+      "GlueEfficiency": 1.4,
+      "TripMineDamage": 1.4,
+      "ComputerProcessingSpeed": 1.4,
+      "FogRepellerEffect": 1.4,
+      "MeleeResistance": 1.16,
+      "ProjectileResistance": 1.16,
+      "InfectionResistance": 1.16
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 13,
+    "ActiveLevels": [
+      9
+    ],
+    "ValueToBoosterEffects": {
+      "HackingProficiency": 1.9,
+      "ScannerRechargeSpeed": 1.45,
+      "SentryGunDamage": 1.45,
+      "GlueEfficiency": 1.45,
+      "TripMineDamage": 1.45,
+      "ComputerProcessingSpeed": 1.45,
+      "FogRepellerEffect": 1.45,
+      "MeleeResistance": 1.18,
+      "ProjectileResistance": 1.18,
+      "InfectionResistance": 1.18
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 13,
+    "ActiveLevels": [
+      10
+    ],
+    "ValueToBoosterEffects": {
+      "HackingProficiency": 2.0,
+      "ScannerRechargeSpeed": 1.5,
+      "SentryGunDamage": 1.5,
+      "GlueEfficiency": 1.5,
+      "TripMineDamage": 1.5,
+      "ComputerProcessingSpeed": 1.5,
+      "FogRepellerEffect": 1.5,
+      "MeleeResistance": 1.2,
+      "ProjectileResistance": 1.2,
+      "InfectionResistance": 1.2
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 14,
+    "ActiveLevels": [
+      3
+    ],
+    "ValueToBoosterEffects": {
+      "MeleeResistance": 1.5,
+      "ProjectileResistance": 1.5,
+      "InfectionResistance": 1.5
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 14,
+    "ActiveLevels": [
+      4
+    ],
+    "ValueToBoosterEffects": {
+      "MeleeResistance": 1.5,
+      "ProjectileResistance": 1.5,
+      "InfectionResistance": 1.5,
+      "RegenerationSpeed": 2.0,
+      "RegenerationCap": 2.0
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 14,
+    "ActiveLevels": [
+      5
+    ],
+    "ValueToBoosterEffects": {
+      "MeleeResistance": 1.5,
+      "ProjectileResistance": 1.5,
+      "InfectionResistance": 1.5,
+      "RegenerationSpeed": 2.0,
+      "RegenerationCap": 2.0,
+      "ComputerProcessingSpeed": 999,
+      "HackingProficiency": 999.0,
+      "ScannerRechargeSpeed": 1.5,
+      "SentryGunDamage": 1.5,
+      "GlueEfficiency": 1.5,
+      "TripMineDamage": 1.5
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 14,
+    "ActiveLevels": [
+      6
+    ],
+    "ValueToBoosterEffects": {
+      "MeleeResistance": 1.5,
+      "ProjectileResistance": 1.5,
+      "InfectionResistance": 1.5,
+      "RegenerationSpeed": 2.0,
+      "RegenerationCap": 2.0,
+      "ComputerProcessingSpeed": 999,
+      "HackingProficiency": 999.0,
+      "ScannerRechargeSpeed": 1.5,
+      "SentryGunDamage": 1.5,
+      "GlueEfficiency": 1.5,
+      "TripMineDamage": 1.5
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 14,
+    "ActiveLevels": [
+      7
+    ],
+    "ValueToBoosterEffects": {
+      "MeleeResistance": 1.5,
+      "ProjectileResistance": 1.5,
+      "InfectionResistance": 1.5,
+      "RegenerationSpeed": 2.0,
+      "RegenerationCap": 2.0,
+      "ComputerProcessingSpeed": 999,
+      "HackingProficiency": 999.0,
+      "ScannerRechargeSpeed": 1.5,
+      "SentryGunDamage": 1.5,
+      "GlueEfficiency": 1.5,
+      "TripMineDamage": 1.5,
+      "BioscanSpeed": 1.5
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 14,
+    "ActiveLevels": [
+      8
+    ],
+    "ValueToBoosterEffects": {
+      "MeleeResistance": 1.5,
+      "ProjectileResistance": 1.5,
+      "InfectionResistance": 1.5,
+      "RegenerationSpeed": 2.0,
+      "RegenerationCap": 2.0,
+      "ComputerProcessingSpeed": 999,
+      "HackingProficiency": 999.0,
+      "ScannerRechargeSpeed": 1.5,
+      "SentryGunDamage": 1.5,
+      "GlueEfficiency": 1.5,
+      "TripMineDamage": 1.5,
+      "BioscanSpeed": 1.5
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 14,
+    "ActiveLevels": [
+      9
+    ],
+    "ValueToBoosterEffects": {
+      "MeleeResistance": 1.5,
+      "ProjectileResistance": 1.5,
+      "InfectionResistance": 2.0,
+      "RegenerationSpeed": 2.0,
+      "RegenerationCap": 2.0,
+      "ComputerProcessingSpeed": 999,
+      "HackingProficiency": 999.0,
+      "ScannerRechargeSpeed": 1.5,
+      "SentryGunDamage": 1.5,
+      "GlueEfficiency": 1.5,
+      "TripMineDamage": 1.5,
+      "BioscanSpeed": 1.5
+    }
+  },
+  {
+    "ClassLayoutPersistentId": 14,
+    "ActiveLevels": [
+      10
+    ],
+    "ValueToBoosterEffects": {
+      "MeleeResistance": 1.5,
+      "ProjectileResistance": 1.5,
+      "InfectionResistance": 2.0,
+      "RegenerationSpeed": 3.5,
+      "RegenerationCap": 2.0,
+      "ComputerProcessingSpeed": 999,
+      "HackingProficiency": 999.0,
+      "ScannerRechargeSpeed": 1.5,
+      "SentryGunDamage": 1.5,
+      "GlueEfficiency": 1.5,
+      "TripMineDamage": 1.5,
+      "BioscanSpeed": 1.5
+    }
+  }
+]

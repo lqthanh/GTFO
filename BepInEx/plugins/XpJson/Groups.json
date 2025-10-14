@@ -1,0 +1,40 @@
+
+[
+  {
+    "PersistentId": 0,
+    "VisibleForPlayerCount": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "Name": "Combat"
+  },
+  {
+    "PersistentId": 1,
+    "VisibleForPlayerCount": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "Name": "Survival"
+  },
+  {
+    "PersistentId": 2,
+    "VisibleForPlayerCount": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "Name": "Utility"
+  },
+  {
+    "PersistentId": 3,
+    "VisibleForPlayerCount": [
+      1
+    ],
+    "Name": "Solo"
+  }
+]
