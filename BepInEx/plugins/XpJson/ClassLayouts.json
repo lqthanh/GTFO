@@ -19,7 +19,7 @@
       },
       {
         "LevelNumber": 1,
-        "TotalXpRequired": 100,
+        "TotalXpRequired": 75,
         "CustomLevelUpPopupText": "Lv Up!\nGun Damage +8%\n8% Ammo Refill",
         "CustomLevelStatsText": "Class: Soldier\n{0}\nGun Damage 108% -> 116%",
         "HealthMultiplier": 1,
@@ -39,7 +39,7 @@
       },
       {
         "LevelNumber": 2,
-        "TotalXpRequired": 200,
+        "TotalXpRequired": 150,
         "CustomLevelUpPopupText": "Lv Up!\nGun Damage +8%\n8% Ammo Refill",
         "CustomLevelStatsText": "Class: Soldier\n{0}\nGun Damage 116% -> 124%",
         "HealthMultiplier": 1,
@@ -59,7 +59,7 @@
       },
       {
         "LevelNumber": 3,
-        "TotalXpRequired": 300,
+        "TotalXpRequired": 225,
         "CustomLevelUpPopupText": "Lv Up!\nGun Damage +8%\n8% Ammo Refill",
         "CustomLevelStatsText": "Class: Soldier\n{0}\nGun Damage 124% -> 132%",
         "HealthMultiplier": 1,
@@ -79,7 +79,7 @@
       },
       {
         "LevelNumber": 4,
-        "TotalXpRequired": 400,
+        "TotalXpRequired": 300,
         "CustomLevelUpPopupText": "Lv Up!\nGun Damage +8%\n8% Ammo Refill",
         "CustomLevelStatsText": "Class: Soldier\n{0}\nGun Damage 132% -> 140%",
         "HealthMultiplier": 1,
@@ -99,7 +99,7 @@
       },
       {
         "LevelNumber": 5,
-        "TotalXpRequired": 500,
+        "TotalXpRequired": 375,
         "CustomLevelUpPopupText": "Lv Up!\nGun Damage +8%\n20% Ammo Refill",
         "CustomLevelStatsText": "Class: Soldier\n{0}\nGun Damage 140% -> 160%",
         "HealthMultiplier": 1,
@@ -119,7 +119,7 @@
       },
       {
         "LevelNumber": 6,
-        "TotalXpRequired": 600,
+        "TotalXpRequired": 450,
         "CustomLevelUpPopupText": "Lv Up!\nGun Damage +8%\n8% Ammo Refill",
         "CustomLevelStatsText": "Class: Soldier\n{0}\nGun Damage 160% -> 168%",
         "HealthMultiplier": 1,
@@ -139,7 +139,7 @@
       },
       {
         "LevelNumber": 7,
-        "TotalXpRequired": 700,
+        "TotalXpRequired": 525,
         "CustomLevelUpPopupText": "Lv Up!\nGun Damage +8%\n8% Ammo Refill",
         "CustomLevelStatsText": "Class: Soldier\n{0}\nGun Damage 168% -> 176%",
         "HealthMultiplier": 1,
@@ -159,7 +159,7 @@
       },
       {
         "LevelNumber": 8,
-        "TotalXpRequired": 800,
+        "TotalXpRequired": 600,
         "CustomLevelUpPopupText": "Lv Up!\nGun Damage +8%\n8% Ammo Refill",
         "CustomLevelStatsText": "Class: Soldier\n{0}\nGun Damage 176% -> 184%",
         "HealthMultiplier": 1,
@@ -179,7 +179,7 @@
       },
       {
         "LevelNumber": 9,
-        "TotalXpRequired": 900,
+        "TotalXpRequired": 675,
         "CustomLevelUpPopupText": "Lv Up!\nGun Damage +8%\n8% Ammo Refill",
         "CustomLevelStatsText": "Class: Soldier\n{0}\nGun Damage 184% -> 192%",
         "HealthMultiplier": 1,
@@ -199,7 +199,7 @@
       },
       {
         "LevelNumber": 10,
-        "TotalXpRequired": 1000,
+        "TotalXpRequired": 750,
         "CustomLevelUpPopupText": "MAX LV!\nGun Damage +8%\n20% Ammo Refill\nRegen Speed +35%",
         "CustomLevelStatsText": "Class: Soldier\n{0}\nGun Damage 180%\nRegen Speed 135%",
         "HealthMultiplier": 1,
@@ -238,7 +238,7 @@
       },
       {
         "LevelNumber": 1,
-        "TotalXpRequired": 150,
+        "TotalXpRequired": 100,
         "CustomLevelUpPopupText": "Lv Up!\nArmor -4%\nRegen Speed +50%",
         "CustomLevelStatsText": "Class: Masochist\n{0}\nArmor 46% -> 42%\nRegen Speed 150% -> 200%",
         "HealthMultiplier": 1,
@@ -249,7 +249,7 @@
       },
       {
         "LevelNumber": 2,
-        "TotalXpRequired": 300,
+        "TotalXpRequired": 200,
         "CustomLevelUpPopupText": "Lv Up!\nArmor -4%\nRegen Speed +50%",
         "CustomLevelStatsText": "Class: Masochist\n{0}\nArmor 42% -> 38%\nRegen Speed 200% -> 250%",
         "HealthMultiplier": 1,
@@ -260,7 +260,7 @@
       },
       {
         "LevelNumber": 3,
-        "TotalXpRequired": 450,
+        "TotalXpRequired": 300,
         "CustomLevelUpPopupText": "Lv Up!\nArmor -4%\nRegen Speed +50%",
         "CustomLevelStatsText": "Class: Masochist\n{0}\nArmor 38% -> 34%\nRegen Speed 250% -> 300%",
         "HealthMultiplier": 1,
@@ -271,7 +271,7 @@
       },
       {
         "LevelNumber": 4,
-        "TotalXpRequired": 600,
+        "TotalXpRequired": 400,
         "CustomLevelUpPopupText": "Lv Up!\nArmor -4%\nRegen Speed +50%",
         "CustomLevelStatsText": "Class: Masochist\n{0}\nArmor 34% -> 30%\nRegen Speed 300% -> 0%\nDamage 100% -> 180%\nMax HP 20 -> 30\nMed Eff. 100% -> 150%",
         "HealthMultiplier": 1,
@@ -282,7 +282,7 @@
       },
       {
         "LevelNumber": 5,
-        "TotalXpRequired": 750,
+        "TotalXpRequired": 500,
         "CustomLevelUpPopupText": "MAX LV!\nDamage +80%\nArmor -4%\n+10 Max HP\n+50% Med Eff.",
         "CustomLevelStatsText": "Class: Masochist\n{0}\nArmor 30%\nDamage 180%\nMax HP +50%\nMed Eff. 150%",
         "HealthMultiplier": 1.5,
@@ -312,7 +312,7 @@
       },
       {
         "LevelNumber": 1,
-        "TotalXpRequired": 100,
+        "TotalXpRequired": 75,
         "CustomLevelUpPopupText": "Lv Up!\nGun Damage +12%\nArmor +3%",
         "CustomLevelStatsText": "Class: Marine\n{0}\nGun Damage 112% -> 124%\nArmor 63% -> 66%",
         "HealthMultiplier": 1,
@@ -323,7 +323,7 @@
       },
       {
         "LevelNumber": 2,
-        "TotalXpRequired": 200,
+        "TotalXpRequired": 150,
         "CustomLevelUpPopupText": "Lv Up!\nGun Damage +12%\nArmor +3%",
         "CustomLevelStatsText": "Class: Marine\n{0}\nGun Damage 124% -> 136%\nArmor 66% -> 69%",
         "HealthMultiplier": 1,
@@ -334,7 +334,7 @@
       },
       {
         "LevelNumber": 3,
-        "TotalXpRequired": 300,
+        "TotalXpRequired": 225,
         "CustomLevelUpPopupText": "Lv Up!\nGun Damage +12%\nArmor +3%",
         "CustomLevelStatsText": "Class: Marine\n{0}\nGun Damage 136% -> 148%\nArmor 69% -> 72%",
         "HealthMultiplier": 1,
@@ -345,7 +345,7 @@
       },
       {
         "LevelNumber": 4,
-        "TotalXpRequired": 400,
+        "TotalXpRequired": 300,
         "CustomLevelUpPopupText": "Lv Up!\nGun Damage +12%\nArmor +3%",
         "CustomLevelStatsText": "Class: Marine\n{0}\nGun Damage 148% -> 160%\nArmor 72% -> 75%",
         "HealthMultiplier": 1,
@@ -356,7 +356,7 @@
       },
       {
         "LevelNumber": 5,
-        "TotalXpRequired": 500,
+        "TotalXpRequired": 375,
         "CustomLevelUpPopupText": "Lv Up!\nGun Damage +12%\nArmor +3%",
         "CustomLevelStatsText": "Class: Marine\n{0}\nGun Damage 160% -> 172%\nArmor 75% -> 78%",
         "HealthMultiplier": 1,
@@ -367,7 +367,7 @@
       },
       {
         "LevelNumber": 6,
-        "TotalXpRequired": 600,
+        "TotalXpRequired": 450,
         "CustomLevelUpPopupText": "Lv Up!\nGun Damage +12%\nArmor +3%",
         "CustomLevelStatsText": "Class: Marine\n{0}\nGun Damage 172% -> 184%\nArmor 78% -> 81%",
         "HealthMultiplier": 1,
@@ -378,7 +378,7 @@
       },
       {
         "LevelNumber": 7,
-        "TotalXpRequired": 700,
+        "TotalXpRequired": 525,
         "CustomLevelUpPopupText": "Lv Up!\nGun Damage +12%\nArmor +3%",
         "CustomLevelStatsText": "Class: Marine\n{0}\nGun Damage 184% -> 196%\nArmor 81% -> 84%",
         "HealthMultiplier": 1,
@@ -389,7 +389,7 @@
       },
       {
         "LevelNumber": 8,
-        "TotalXpRequired": 800,
+        "TotalXpRequired": 600,
         "CustomLevelUpPopupText": "Lv Up!\nGun Damage +12%\nArmor +3%",
         "CustomLevelStatsText": "Class: Marine\n{0}\nGun Damage 196% -> 208%\nArmor 84% -> 87%",
         "HealthMultiplier": 1,
@@ -400,7 +400,7 @@
       },
       {
         "LevelNumber": 9,
-        "TotalXpRequired": 900,
+        "TotalXpRequired": 675,
         "CustomLevelUpPopupText": "Lv Up!\nGun Damage +12%\nArmor +3%",
         "CustomLevelStatsText": "Class: Marine\n{0}\nGun Damage 208% -> 220%\nArmor 87% -> 90%",
         "HealthMultiplier": 1,
@@ -411,7 +411,7 @@
       },
       {
         "LevelNumber": 10,
-        "TotalXpRequired": 1000,
+        "TotalXpRequired": 750,
         "CustomLevelUpPopupText": "MAX LV!\nGun Damage +12%\nArmor +3%",
         "CustomLevelStatsText": "Class: Marine\n{0}\nGun Damage 220%\nArmor 90%",
         "HealthMultiplier": 1,
@@ -446,7 +446,7 @@
       },
       {
         "LevelNumber": 1,
-        "TotalXpRequired": 150,
+        "TotalXpRequired": 100,
         "CustomLevelUpPopupText": "Lv Up!\nArmor +4%\nSpeed +8%",
         "CustomLevelStatsText": "Class: Hunter\n{0}\nMelee 250%\nArmor 104% -> 108%\nSpeed 108% -> 116%",
         "HealthMultiplier": 1,
@@ -462,7 +462,7 @@
       },
       {
         "LevelNumber": 2,
-        "TotalXpRequired": 300,
+        "TotalXpRequired": 200,
         "CustomLevelUpPopupText": "Lv Up!\nArmor +4%\nSpeed +8%",
         "CustomLevelStatsText": "Class: Hunter\n{0}\nMelee 250%\nArmor 108% -> 112%\nSpeed 116% -> 124%",
         "HealthMultiplier": 1,
@@ -478,7 +478,7 @@
       },
       {
         "LevelNumber": 3,
-        "TotalXpRequired": 450,
+        "TotalXpRequired": 300,
         "CustomLevelUpPopupText": "Lv Up!\nArmor +4%\nSpeed +8%",
         "CustomLevelStatsText": "Class: Hunter\n{0}\nMelee 250%\nArmor 112% -> 116%\nSpeed 124% -> 132%",
         "HealthMultiplier": 1,
@@ -494,7 +494,7 @@
       },
       {
         "LevelNumber": 4,
-        "TotalXpRequired": 600,
+        "TotalXpRequired": 400,
         "CustomLevelUpPopupText": "Lv Up!\nArmor +4%\nSpeed +8%",
         "CustomLevelStatsText": "Class: Hunter\n{0}\nMelee 250%\nArmor 116% -> 120%\nSpeed 132% -> 140%\nJump -> Double Jump",
         "HealthMultiplier": 1,
@@ -510,7 +510,7 @@
       },
       {
         "LevelNumber": 5,
-        "TotalXpRequired": 750,
+        "TotalXpRequired": 500,
         "CustomLevelUpPopupText": "MAX LV!\nArmor +4%\nSpeed +8%\n+Double Jump",
         "CustomLevelStatsText": "Class: Hunter\n{0}\nMelee 250%\nArmor 120%\nSpeed 140%\nDouble Jump",
         "HealthMultiplier": 1,
@@ -550,7 +550,7 @@
       },
       {
         "LevelNumber": 1,
-        "TotalXpRequired": 150,
+        "TotalXpRequired": 100,
         "CustomLevelUpPopupText": "Lv Up!\nArmor +5%\nSpeed +8%",
         "CustomLevelStatsText": "Class: Assassin\n{0}\nMelee 340%\nArmor 60% -> 65%\nSpeed 108% -> 116%",
         "HealthMultiplier": 1,
@@ -566,7 +566,7 @@
       },
       {
         "LevelNumber": 2,
-        "TotalXpRequired": 300,
+        "TotalXpRequired": 200,
         "CustomLevelUpPopupText": "Lv Up!\nArmor +5%\nSpeed +8%",
         "CustomLevelStatsText": "Class: Assassin\n{0}\nMelee 340%\nArmor 65% -> 70%\nSpeed 116% -> 124%",
         "HealthMultiplier": 1,
@@ -582,7 +582,7 @@
       },
       {
         "LevelNumber": 3,
-        "TotalXpRequired": 450,
+        "TotalXpRequired": 300,
         "CustomLevelUpPopupText": "Lv Up!\nArmor +5%\nSpeed +8%",
         "CustomLevelStatsText": "Class: Assassin\n{0}\nMelee 340%\nArmor 70% -> 75%\nSpeed 124% -> 132%",
         "HealthMultiplier": 1,
@@ -598,7 +598,7 @@
       },
       {
         "LevelNumber": 4,
-        "TotalXpRequired": 600,
+        "TotalXpRequired": 400,
         "CustomLevelUpPopupText": "Lv Up!\nArmor +5%\nSpeed +8%",
         "CustomLevelStatsText": "Class: Assassin\n{0}\nMelee 340%\nArmor 75% -> 80%\nSpeed 132% -> 140%\nJump -> Double Jump",
         "HealthMultiplier": 1,
@@ -614,7 +614,7 @@
       },
       {
         "LevelNumber": 5,
-        "TotalXpRequired": 750,
+        "TotalXpRequired": 500,
         "CustomLevelUpPopupText": "MAX LV!\nArmor +5%\nSpeed +8%\n+Double Jump",
         "CustomLevelStatsText": "Class: Assassin\n{0}\nMelee 340%\nArmor 80%\nSpeed 140%\nDouble Jump",
         "HealthMultiplier": 1,
@@ -649,7 +649,7 @@
       },
       {
         "LevelNumber": 1,
-        "TotalXpRequired": 100,
+        "TotalXpRequired": 75,
         "CustomLevelUpPopupText": "Lv Up!\nGun Damage +6%\nMelee Damage +6%\nSpeed +2%",
         "CustomLevelStatsText": "Class: Fighter\n{0}\nGun Damage 106% -> 112%\nMelee Damage 106% -> 112%\nSpeed 102% -> 104%",
         "HealthMultiplier": 1,
@@ -665,7 +665,7 @@
       },
       {
         "LevelNumber": 2,
-        "TotalXpRequired": 200,
+        "TotalXpRequired": 150,
         "CustomLevelUpPopupText": "Lv Up!\nGun Damage +6%\nMelee Damage +6%\nSpeed +2%",
         "CustomLevelStatsText": "Class: Fighter\n{0}\nGun Damage 112% -> 118%\nMelee Damage 112% -> 118%\nSpeed 104% -> 106%",
         "HealthMultiplier": 1,
@@ -681,7 +681,7 @@
       },
       {
         "LevelNumber": 3,
-        "TotalXpRequired": 300,
+        "TotalXpRequired": 225,
         "CustomLevelUpPopupText": "Lv Up!\nGun Damage +6%\nMelee Damage +6%\nSpeed +2%",
         "CustomLevelStatsText": "Class: Fighter\n{0}\nGun Damage 118% -> 124%\nMelee Damage 118% -> 124%\nSpeed 106% -> 108%",
         "HealthMultiplier": 1,
@@ -697,7 +697,7 @@
       },
       {
         "LevelNumber": 4,
-        "TotalXpRequired": 400,
+        "TotalXpRequired": 300,
         "CustomLevelUpPopupText": "Lv Up!\nGun Damage +6%\nMelee Damage +6%\nSpeed +2%",
         "CustomLevelStatsText": "Class: Fighter\n{0}\nGun Damage 124% -> 130%\nMelee Damage 124% -> 130%\nSpeed 108% -> 110%",
         "HealthMultiplier": 1,
@@ -713,7 +713,7 @@
       },
       {
         "LevelNumber": 5,
-        "TotalXpRequired": 500,
+        "TotalXpRequired": 375,
         "CustomLevelUpPopupText": "Lv Up!\nGun Damage +6%\nMelee Damage +6%\nSpeed +2%",
         "CustomLevelStatsText": "Class: Fighter\n{0}\nGun Damage 130% -> 136%\nMelee Damage 130% -> 136%\nSpeed 110% -> 112%",
         "HealthMultiplier": 1,
@@ -729,7 +729,7 @@
       },
       {
         "LevelNumber": 6,
-        "TotalXpRequired": 600,
+        "TotalXpRequired": 450,
         "CustomLevelUpPopupText": "Lv Up!\nGun Damage +6%\nMelee Damage +6%\nSpeed +2%",
         "CustomLevelStatsText": "Class: Fighter\n{0}\nGun Damage 136% -> 142%\nMelee Damage 136% -> 142%\nSpeed 112% -> 114%",
         "HealthMultiplier": 1,
@@ -745,7 +745,7 @@
       },
       {
         "LevelNumber": 7,
-        "TotalXpRequired": 700,
+        "TotalXpRequired": 525,
         "CustomLevelUpPopupText": "Lv Up!\nGun Damage +6%\nMelee Damage +6%\nSpeed +2%",
         "CustomLevelStatsText": "Class: Fighter\n{0}\nGun Damage 142% -> 148%\nMelee Damage 142% -> 148%\nSpeed 114% -> 116%",
         "HealthMultiplier": 1,
@@ -761,7 +761,7 @@
       },
       {
         "LevelNumber": 8,
-        "TotalXpRequired": 800,
+        "TotalXpRequired": 600,
         "CustomLevelUpPopupText": "Lv Up!\nGun Damage +6%\nMelee Damage +6%\nSpeed +2%",
         "CustomLevelStatsText": "Class: Fighter\n{0}\nGun Damage 148% -> 154%\nMelee Damage 148% -> 154%\nSpeed 116% -> 118%",
         "HealthMultiplier": 1,
@@ -777,7 +777,7 @@
       },
       {
         "LevelNumber": 9,
-        "TotalXpRequired": 900,
+        "TotalXpRequired": 675,
         "CustomLevelUpPopupText": "Lv Up!\nGun Damage +6%\nMelee Damage +6%\nSpeed +2%",
         "CustomLevelStatsText": "Class: Fighter\n{0}\nGun Damage 154% -> 160%\nMelee Damage 154% -> 160%\nSpeed 118% -> 120%",
         "HealthMultiplier": 1,
@@ -793,7 +793,7 @@
       },
       {
         "LevelNumber": 10,
-        "TotalXpRequired": 1000,
+        "TotalXpRequired": 750,
         "CustomLevelUpPopupText": "MAX LV!\nGun Damage +6%\nMelee Damage +6%\nSpeed +2%",
         "CustomLevelStatsText": "Class: Fighter\n{0}\nGun Damage 160%\nMelee Damage 160%\nSpeed 120%",
         "HealthMultiplier": 1,
@@ -828,7 +828,7 @@
       },
       {
         "LevelNumber": 1,
-        "TotalXpRequired": 100,
+        "TotalXpRequired": 75,
         "CustomLevelUpPopupText": "Lv Up!\nArmor +3%\nInfection Res. +3%\n25% Heal",
         "CustomLevelStatsText": "Class: Survivalist\n{0}\nArmor 103% -> 106%\nInfect Res. 0% -> 3%",
         "HealthMultiplier": 1,
@@ -844,7 +844,7 @@
       },
       {
         "LevelNumber": 2,
-        "TotalXpRequired": 200,
+        "TotalXpRequired": 150,
         "CustomLevelUpPopupText": "Lv Up!\nArmor +3%\nInfection Res. +3%\n25% Heal",
         "CustomLevelStatsText": "Class: Survivalist\n{0}\nArmor 106% -> 109%\nInfect Res. 3% -> 6%",
         "HealthMultiplier": 1,
@@ -860,7 +860,7 @@
       },
       {
         "LevelNumber": 3,
-        "TotalXpRequired": 300,
+        "TotalXpRequired": 225,
         "CustomLevelUpPopupText": "Lv Up!\nArmor +3%\nInfection Res. +3%\n25% Heal",
         "CustomLevelStatsText": "Class: Survivalist\n{0}\nArmor 109% -> 112%\nInfect Res. 6% -> 9%",
         "HealthMultiplier": 1,
@@ -876,7 +876,7 @@
       },
       {
         "LevelNumber": 4,
-        "TotalXpRequired": 400,
+        "TotalXpRequired": 300,
         "CustomLevelUpPopupText": "Lv Up!\nArmor +3%\nInfection Res. +3%\n25% Heal",
         "CustomLevelStatsText": "Class: Survivalist\n{0}\nArmor 112% -> 115%\nInfect Res. 9% -> 12%",
         "HealthMultiplier": 1,
@@ -892,7 +892,7 @@
       },
       {
         "LevelNumber": 5,
-        "TotalXpRequired": 500,
+        "TotalXpRequired": 375,
         "CustomLevelUpPopupText": "Lv Up!\nArmor +3%\nInfection Res. +3%\n50% Heal",
         "CustomLevelStatsText": "Class: Survivalist\n{0}\nArmor 115% -> 118%\nInfect Res. 12% -> 15%",
         "HealthMultiplier": 1,
@@ -908,7 +908,7 @@
       },
       {
         "LevelNumber": 6,
-        "TotalXpRequired": 600,
+        "TotalXpRequired": 450,
         "CustomLevelUpPopupText": "Lv Up!\nArmor +3%\nInfection Res. +3%\n25% Heal",
         "CustomLevelStatsText": "Class: Survivalist\n{0}\nArmor 118% -> 121%\nInfect Res. 15% -> 18%",
         "HealthMultiplier": 1,
@@ -924,7 +924,7 @@
       },
       {
         "LevelNumber": 7,
-        "TotalXpRequired": 700,
+        "TotalXpRequired": 525,
         "CustomLevelUpPopupText": "Lv Up!\nArmor +3%\nInfection Res. +3%\n25% Heal",
         "CustomLevelStatsText": "Class: Survivalist\n{0}\nArmor 121% -> 124%\nInfect Res. 18% -> 21%",
         "HealthMultiplier": 1,
@@ -940,7 +940,7 @@
       },
       {
         "LevelNumber": 8,
-        "TotalXpRequired": 800,
+        "TotalXpRequired": 600,
         "CustomLevelUpPopupText": "Lv Up!\nArmor +3%\nInfection Res. +3%\n25% Heal",
         "CustomLevelStatsText": "Class: Survivalist\n{0}\nArmor 124% -> 127%\nInfect Res. 21% -> 24%",
         "HealthMultiplier": 1,
@@ -956,7 +956,7 @@
       },
       {
         "LevelNumber": 9,
-        "TotalXpRequired": 900,
+        "TotalXpRequired": 675,
         "CustomLevelUpPopupText": "Lv Up!\nArmor +3%\nInfection Res. +3%\n25% Heal",
         "CustomLevelStatsText": "Class: Survivalist\n{0}\nArmor 127% -> 130%\nInfect Res. 24% -> 27%",
         "HealthMultiplier": 1,
@@ -972,7 +972,7 @@
       },
       {
         "LevelNumber": 10,
-        "TotalXpRequired": 1000,
+        "TotalXpRequired": 750,
         "CustomLevelUpPopupText": "Lv Up!\nArmor +3%\nInfection Res. +3%\n50% Heal",
         "CustomLevelStatsText": "Class: Survivalist\n{0}\nArmor 130% -> 133%\nInfect Res. 27% -> 30%",
         "HealthMultiplier": 1,
@@ -988,7 +988,7 @@
       },
       {
         "LevelNumber": 11,
-        "TotalXpRequired": 1050,
+        "TotalXpRequired": 800,
         "CustomLevelUpPopupText": "Lv Up!\nArmor +3%\nInfection Res. +3%\n25% Heal",
         "CustomLevelStatsText": "Class: Survivalist\n{0}\nArmor 133% -> 136%\nInfect Res. 30% -> 33%",
         "HealthMultiplier": 1,
@@ -1004,7 +1004,7 @@
       },
       {
         "LevelNumber": 12,
-        "TotalXpRequired": 1100,
+        "TotalXpRequired": 850,
         "CustomLevelUpPopupText": "Lv Up!\nArmor +3%\nInfection Res. +3%\n25% Heal",
         "CustomLevelStatsText": "Class: Survivalist\n{0}\nArmor 136% -> 139%\nInfect Res. 33% -> 36%",
         "HealthMultiplier": 1,
@@ -1020,7 +1020,7 @@
       },
       {
         "LevelNumber": 13,
-        "TotalXpRequired": 1150,
+        "TotalXpRequired": 900,
         "CustomLevelUpPopupText": "Lv Up!\nArmor +3%\nInfection Res. +3%\n25% Heal",
         "CustomLevelStatsText": "Class: Survivalist\n{0}\nArmor 139% -> 142%\nInfect Res. 36% -> 39%",
         "HealthMultiplier": 1,
@@ -1036,7 +1036,7 @@
       },
       {
         "LevelNumber": 14,
-        "TotalXpRequired": 1200,
+        "TotalXpRequired": 950,
         "CustomLevelUpPopupText": "Lv Up!\nArmor +3%\nInfection Res. +3%\n25% Heal",
         "CustomLevelStatsText": "Class: Survivalist\n{0}\nArmor 142% -> 145%\nInfect Res. 39% -> Immune",
         "HealthMultiplier": 1,
@@ -1052,7 +1052,7 @@
       },
       {
         "LevelNumber": 15,
-        "TotalXpRequired": 1250,
+        "TotalXpRequired": 1000,
         "CustomLevelUpPopupText": "MAX LV!\nArmor +3%\nInfection Res. +61%\n50% Heal",
         "CustomLevelStatsText": "Class: Survivalist\n{0}\nArmor 145%\nInfect Immune",
         "HealthMultiplier": 1,
@@ -1087,7 +1087,7 @@
       },
       {
         "LevelNumber": 1,
-        "TotalXpRequired": 100,
+        "TotalXpRequired": 75,
         "CustomLevelUpPopupText": "Lv Up!\nMelee Armor +2%\nProjectile Armor +5%\n20% Heal",
         "CustomLevelStatsText": "Class: Outlander\n{0}\nMelee Armor 102% -> 104%\nProjectile Armor 105% -> 110%\nInfect Immune",
         "HealthMultiplier": 1,
@@ -1103,7 +1103,7 @@
       },
       {
         "LevelNumber": 2,
-        "TotalXpRequired": 200,
+        "TotalXpRequired": 150,
         "CustomLevelUpPopupText": "Lv Up!\nMelee Armor +2%\nProjectile Armor +5%\n20% Heal",
         "CustomLevelStatsText": "Class: Outlander\n{0}\nMelee Armor 104% -> 106%\nProjectile Armor 110% -> 115%\nInfect Immune",
         "HealthMultiplier": 1,
@@ -1119,7 +1119,7 @@
       },
       {
         "LevelNumber": 3,
-        "TotalXpRequired": 300,
+        "TotalXpRequired": 225,
         "CustomLevelUpPopupText": "Lv Up!\nMelee Armor +2%\nProjectile Armor +5%\n20% Heal",
         "CustomLevelStatsText": "Class: Outlander\n{0}\nMelee Armor 106% -> 108%\nProjectile Armor 115% -> 120%\nInfect Immune",
         "HealthMultiplier": 1,
@@ -1135,7 +1135,7 @@
       },
       {
         "LevelNumber": 4,
-        "TotalXpRequired": 400,
+        "TotalXpRequired": 300,
         "CustomLevelUpPopupText": "Lv Up!\nMelee Armor +2%\nProjectile Armor +5%\n20% Heal",
         "CustomLevelStatsText": "Class: Outlander\n{0}\nMelee Armor 108% -> 110%\nProjectile Armor 120% -> 125%\nInfect Immune",
         "HealthMultiplier": 1,
@@ -1151,7 +1151,7 @@
       },
       {
         "LevelNumber": 5,
-        "TotalXpRequired": 500,
+        "TotalXpRequired": 375,
         "CustomLevelUpPopupText": "Lv Up!\nMelee Armor +2%\nProjectile Armor +5%\n40% Heal",
         "CustomLevelStatsText": "Class: Outlander\n{0}\nMelee Armor 110% -> 112%\nProjectile Armor 125% -> 130%\nInfect Immune",
         "HealthMultiplier": 1,
@@ -1167,7 +1167,7 @@
       },
       {
         "LevelNumber": 6,
-        "TotalXpRequired": 600,
+        "TotalXpRequired": 450,
         "CustomLevelUpPopupText": "Lv Up!\nMelee Armor +2%\nProjectile Armor +5%\n20% Heal",
         "CustomLevelStatsText": "Class: Outlander\n{0}\nMelee Armor 112% -> 114%\nProjectile Armor 130% -> 135%\nInfect Immune",
         "HealthMultiplier": 1,
@@ -1183,7 +1183,7 @@
       },
       {
         "LevelNumber": 7,
-        "TotalXpRequired": 700,
+        "TotalXpRequired": 525,
         "CustomLevelUpPopupText": "Lv Up!\nMelee Armor +2%\nProjectile Armor +5%\n20% Heal",
         "CustomLevelStatsText": "Class: Outlander\n{0}\nMelee Armor 114% -> 116%\nProjectile Armor 135% -> 140%\nInfect Immune",
         "HealthMultiplier": 1,
@@ -1199,7 +1199,7 @@
       },
       {
         "LevelNumber": 8,
-        "TotalXpRequired": 800,
+        "TotalXpRequired": 600,
         "CustomLevelUpPopupText": "Lv Up!\nMelee Armor +2%\nProjectile Armor +5%\n20% Heal",
         "CustomLevelStatsText": "Class: Outlander\n{0}\nMelee Armor 116% -> 118%\nProjectile Armor 140% -> 145%\nInfect Immune",
         "HealthMultiplier": 1,
@@ -1215,7 +1215,7 @@
       },
       {
         "LevelNumber": 9,
-        "TotalXpRequired": 900,
+        "TotalXpRequired": 675,
         "CustomLevelUpPopupText": "Lv Up!\nMelee Armor +2%\nProjectile Armor +5%\n20% Heal",
         "CustomLevelStatsText": "Class: Outlander\n{0}\nMelee Armor 118% -> 120%\nProjectile Armor 145% -> 150%\nInfect Immune",
         "HealthMultiplier": 1,
@@ -1231,7 +1231,7 @@
       },
       {
         "LevelNumber": 10,
-        "TotalXpRequired": 1000,
+        "TotalXpRequired": 750,
         "CustomLevelUpPopupText": "Lv Up!\nMelee Armor +2%\nProjectile Armor +5%\n40% Heal",
         "CustomLevelStatsText": "Class: Outlander\n{0}\nMelee Armor 120% -> 122%\nProjectile Armor 150% -> 155%\nInfect Immune",
         "HealthMultiplier": 1,
@@ -1247,7 +1247,7 @@
       },
       {
         "LevelNumber": 11,
-        "TotalXpRequired": 1050,
+        "TotalXpRequired": 800,
         "CustomLevelUpPopupText": "Lv Up!\nMelee Armor +2%\nProjectile Armor +5%\n20% Heal",
         "CustomLevelStatsText": "Class: Outlander\n{0}\nMelee Armor 122% -> 124%\nProjectile Armor 155% -> 160%\nInfect Immune",
         "HealthMultiplier": 1,
@@ -1263,7 +1263,7 @@
       },
       {
         "LevelNumber": 12,
-        "TotalXpRequired": 1100,
+        "TotalXpRequired": 850,
         "CustomLevelUpPopupText": "Lv Up!\nMelee Armor +2%\nProjectile Armor +5%\n20% Heal",
         "CustomLevelStatsText": "Class: Outlander\n{0}\nMelee Armor 124% -> 126%\nProjectile Armor 160% -> 165%\nInfect Immune",
         "HealthMultiplier": 1,
@@ -1279,7 +1279,7 @@
       },
       {
         "LevelNumber": 13,
-        "TotalXpRequired": 1150,
+        "TotalXpRequired": 900,
         "CustomLevelUpPopupText": "Lv Up!\nMelee Armor +2%\nProjectile Armor +5%\n20% Heal",
         "CustomLevelStatsText": "Class: Outlander\n{0}\nMelee Armor 126% -> 128%\nProjectile Armor 165% -> 170%\nInfect Immune",
         "HealthMultiplier": 1,
@@ -1295,7 +1295,7 @@
       },
       {
         "LevelNumber": 14,
-        "TotalXpRequired": 1200,
+        "TotalXpRequired": 950,
         "CustomLevelUpPopupText": "Lv Up!\nMelee Armor +2%\nProjectile Armor +5%\n20% Heal",
         "CustomLevelStatsText": "Class: Outlander\n{0}\nMelee Armor 128% -> 130%\nProjectile Armor 170% -> 175%\nInfect Immune",
         "HealthMultiplier": 1,
@@ -1311,7 +1311,7 @@
       },
       {
         "LevelNumber": 15,
-        "TotalXpRequired": 1250,
+        "TotalXpRequired": 1000,
         "CustomLevelUpPopupText": "MAX LV!\nMelee Armor +2%\nProjectile Armor +5%\n40% Heal",
         "CustomLevelStatsText": "Class: Outlander\n{0}\nMelee Armor 130%\nProjectile Armor 175%\nInfect Immune",
         "HealthMultiplier": 1,
@@ -1445,7 +1445,7 @@
       },
       {
         "LevelNumber": 1,
-        "TotalXpRequired": 150,
+        "TotalXpRequired": 100,
         "CustomLevelUpPopupText": "Lv Up!\nRevive -0.4 sec.\nRegen Speed +35%\nArmor +4%\nInfect Res. +5%\n+4% Speed",
         "CustomLevelStatsText": "Class: Field Medic\n{0}\nRevive 3.6 -> 3.3 sec.\nRegen Speed 135% -> 170%\nArmor 104% -> 108%\nInfect Res. 5% -> 10%\nSpeed 104% -> 108%",
         "HealthMultiplier": 1.2,
@@ -1461,7 +1461,7 @@
       },
       {
         "LevelNumber": 2,
-        "TotalXpRequired": 300,
+        "TotalXpRequired": 200,
         "CustomLevelUpPopupText": "Lv Up!\nRevive -0.3 sec.\nRegen Speed +35%\nArmor +4%\nInfect Res. +5%\n+4% Speed",
         "CustomLevelStatsText": "Class: Field Medic\n{0}\nRevive 3.3 -> 3 sec.\nRegen Speed 170% -> 205%\nArmor 108% -> 112%\nInfect Res. 10% -> 15%\nSpeed 108% -> 112%",
         "HealthMultiplier": 1.4,
@@ -1477,7 +1477,7 @@
       },
       {
         "LevelNumber": 3,
-        "TotalXpRequired": 450,
+        "TotalXpRequired": 300,
         "CustomLevelUpPopupText": "Lv Up!\nRevive -0.3 sec.\nRegen Speed +35%\nArmor +4%\nInfect Res. +5%\n+4% Speed",
         "CustomLevelStatsText": "Class: Field Medic\n{0}\nRevive 3 -> 2.8 sec.\nRegen Speed 205% -> 240%\nArmor 112% -> 116%\nInfect Res. 15% -> 20%\nSpeed 112% -> 116%",
         "HealthMultiplier": 1.6,
@@ -1493,7 +1493,7 @@
       },
       {
         "LevelNumber": 4,
-        "TotalXpRequired": 600,
+        "TotalXpRequired": 400,
         "CustomLevelUpPopupText": "Lv Up!\nRevive -0.2 sec.\nRegen Speed +35%\nArmor +4%\nInfect Res. +5%\n+4% Speed",
         "CustomLevelStatsText": "Class: Field Medic\n{0}\nRevive 2.8 -> 2.7 sec.\nRegen Speed 240% -> 275%\nArmor 116% -> 120%\nInfect Res. 20% -> 75%\nSpeed 116% -> 120%",
         "HealthMultiplier": 1.8,
@@ -1509,7 +1509,7 @@
       },
       {
         "LevelNumber": 5,
-        "TotalXpRequired": 750,
+        "TotalXpRequired": 500,
         "CustomLevelUpPopupText": "MAX LV!\nRevive -0.1 sec.\nRegen Speed +35%\nArmor +4%\nInfect Res. +55%\n+4% Speed",
         "CustomLevelStatsText": "Class: Field Medic\n{0}\nRevive 2.7 sec.\nRegen Speed 275%\nArmor 120%\nInfect Res. 75%\nSpeed 120%",
         "HealthMultiplier": 2,
@@ -1544,7 +1544,7 @@
       },
       {
         "LevelNumber": 1,
-        "TotalXpRequired": 150,
+        "TotalXpRequired": 100,
         "CustomLevelUpPopupText": "Lv Up!\nRegen Speed +20%\n+12% Speed",
         "CustomLevelStatsText": "Class: Trailblazer\n{0}\nRegen Speed 120% -> 140%\nSpeed 112% -> 124%",
         "HealthMultiplier": 1,
@@ -1560,7 +1560,7 @@
       },
       {
         "LevelNumber": 2,
-        "TotalXpRequired": 300,
+        "TotalXpRequired": 200,
         "CustomLevelUpPopupText": "Lv Up!\nRegen Speed +20%\n+12% Speed",
         "CustomLevelStatsText": "Class: Trailblazer\n{0}\nRegen Speed 140% -> 160%\nSpeed 124% -> 136%",
         "HealthMultiplier": 1,
@@ -1576,7 +1576,7 @@
       },
       {
         "LevelNumber": 3,
-        "TotalXpRequired": 450,
+        "TotalXpRequired": 300,
         "CustomLevelUpPopupText": "Lv Up!\nRegen Speed +20%\n+12% Speed",
         "CustomLevelStatsText": "Class: Trailblazer\n{0}\nRegen Speed 160% -> 180%\nSpeed 136% -> 148%",
         "HealthMultiplier": 1,
@@ -1592,7 +1592,7 @@
       },
       {
         "LevelNumber": 4,
-        "TotalXpRequired": 600,
+        "TotalXpRequired": 400,
         "CustomLevelUpPopupText": "Lv Up!\nRegen Speed +20%\n+12% Speed",
         "CustomLevelStatsText": "Class: Trailblazer\n{0}\nRegen Speed 180% -> 200%\nInfect Resist 0% -> Immune\nSpeed 148% -> 160%\nJump -> Double Jump",
         "HealthMultiplier": 1,
@@ -1608,7 +1608,7 @@
       },
       {
         "LevelNumber": 5,
-        "TotalXpRequired": 750,
+        "TotalXpRequired": 500,
         "CustomLevelUpPopupText": "MAX LV!\nRegen Speed +20%\nInfect Immune\n+12% Speed\nDouble Jump",
         "CustomLevelStatsText": "Class: Trailblazer\n{0}\nRegen Speed 200%\nInfect Immune\nSpeed 160%\nDouble Jump",
         "HealthMultiplier": 1,
@@ -1643,7 +1643,7 @@
       },
       {
         "LevelNumber": 1,
-        "TotalXpRequired": 100,
+        "TotalXpRequired": 75,
         "CustomLevelUpPopupText": "Lv Up!\n4% Ammo Refill\n4% Tool Refill\n8% Heal",
         "CustomLevelStatsText": "Class: Generalist\n{0}\nDamage 104% -> 108%\nArmor 102% -> 104%\nInfect Res. 2% -> 4%\nHacking 110% -> 120%\nTerminal Delay 95% -> 90%\nTool Power 105% -> 110%\nRepeller 105% -> 110%\nSpeed 102% -> 104%",
         "HealthMultiplier": 1,
@@ -1676,7 +1676,7 @@
       },
       {
         "LevelNumber": 2,
-        "TotalXpRequired": 200,
+        "TotalXpRequired": 150,
         "CustomLevelUpPopupText": "Lv Up!\n4% Ammo Refill\n4% Tool Refill\n8% Heal",
         "CustomLevelStatsText": "Class: Generalist\n{0}\nDamage 108% -> 112%\nArmor 104% -> 106%\nInfect Res. 4% -> 6%\nHacking 120% -> 130%\nTerminal Delay 90% -> 85%\nTool Power 110% -> 115%\nRepeller 110% -> 115%\nSpeed 104% -> 106%",
         "HealthMultiplier": 1,
@@ -1709,7 +1709,7 @@
       },
       {
         "LevelNumber": 3,
-        "TotalXpRequired": 300,
+        "TotalXpRequired": 225,
         "CustomLevelUpPopupText": "Lv Up!\n4% Ammo Refill\n4% Tool Refill\n8% Heal",
         "CustomLevelStatsText": "Class: Generalist\n{0}\nDamage 112% -> 116%\nArmor 106% -> 108%\nInfect Res. 6% -> 8%\nHacking 130% -> 140%\nTerminal Delay 85% -> 80%\nTool Power 115% -> 120%\nRepeller 115% -> 120%\nSpeed 106% -> 108%",
         "HealthMultiplier": 1,
@@ -1742,7 +1742,7 @@
       },
       {
         "LevelNumber": 4,
-        "TotalXpRequired": 400,
+        "TotalXpRequired": 300,
         "CustomLevelUpPopupText": "Lv Up!\n4% Ammo Refill\n4% Tool Refill\n8% Heal",
         "CustomLevelStatsText": "Class: Generalist\n{0}\nDamage 116% -> 120%\nArmor 108% -> 110%\nInfect Res. 8% -> 10%\nHacking 140% -> 150%\nTerminal Delay 80% -> 75%\nTool Power 120% -> 125%\nRepeller 120% -> 125%\nSpeed 108% -> 110%",
         "HealthMultiplier": 1,
@@ -1775,7 +1775,7 @@
       },
       {
         "LevelNumber": 5,
-        "TotalXpRequired": 500,
+        "TotalXpRequired": 375,
         "CustomLevelUpPopupText": "Lv Up!\n4% Ammo Refill\n4% Tool Refill\n8% Heal",
         "CustomLevelStatsText": "Class: Generalist\n{0}\nDamage 120% -> 124%\nArmor 110% -> 112%\nInfect Res. 10% -> 12%\nHacking 150% -> 160%\nTerminal Delay 75% -> 70%\nTool Power 125% -> 130%\nRepeller 125% -> 130%\nSpeed 110% -> 112%",
         "HealthMultiplier": 1,
@@ -1808,7 +1808,7 @@
       },
       {
         "LevelNumber": 6,
-        "TotalXpRequired": 600,
+        "TotalXpRequired": 450,
         "CustomLevelUpPopupText": "Lv Up!\n4% Ammo Refill\n4% Tool Refill\n8% Heal",
         "CustomLevelStatsText": "Class: Generalist\n{0}\nDamage 124% -> 128%\nArmor 112% -> 114%\nInfect Res. 12% -> 14%\nHacking 160% -> 170%\nTerminal Delay 70% -> 65%\nTool Power 130% -> 135%\nRepeller 130% -> 135%\nSpeed 112% -> 114%",
         "HealthMultiplier": 1,
@@ -1841,7 +1841,7 @@
       },
       {
         "LevelNumber": 7,
-        "TotalXpRequired": 700,
+        "TotalXpRequired": 525,
         "CustomLevelUpPopupText": "Lv Up!\n4% Ammo Refill\n4% Tool Refill\n8% Heal",
         "CustomLevelStatsText": "Class: Generalist\n{0}\nDamage 128% -> 132%\nArmor 114% -> 116%\nInfect Res. 14% -> 16%\nHacking 170% -> 180%\nTerminal Delay 65% -> 60%\nTool Power 135% -> 140%\nRepeller 135% -> 140%\nSpeed 114% -> 116%",
         "HealthMultiplier": 1,
@@ -1874,7 +1874,7 @@
       },
       {
         "LevelNumber": 8,
-        "TotalXpRequired": 800,
+        "TotalXpRequired": 600,
         "CustomLevelUpPopupText": "Lv Up!\n4% Ammo Refill\n4% Tool Refill\n8% Heal",
         "CustomLevelStatsText": "Class: Generalist\n{0}\nDamage 132% -> 136%\nArmor 116% -> 118%\nInfect Res. 16% -> 18%\nHacking 180% -> 190%\nTerminal Delay 60% -> 55%\nTool Power 140% -> 145%\nRepeller 140% -> 145%\nSpeed 116% -> 118%",
         "HealthMultiplier": 1,
@@ -1907,7 +1907,7 @@
       },
       {
         "LevelNumber": 9,
-        "TotalXpRequired": 900,
+        "TotalXpRequired": 675,
         "CustomLevelUpPopupText": "Lv Up!\n4% Ammo Refill\n4% Tool Refill\n8% Heal",
         "CustomLevelStatsText": "Class: Generalist\n{0}\nDamage 136% -> 140%\nArmor 118% -> 120%\nInfect Res. 18% -> 20%\nHacking 190% -> 200%\nTerminal Delay 55% -> 50%\nTool Power 145% -> 150%\nRepeller 145% -> 150%\nSpeed 118% -> 120%\nJump -> Double Jump",
         "HealthMultiplier": 1,
@@ -1940,7 +1940,7 @@
       },
       {
         "LevelNumber": 10,
-        "TotalXpRequired": 1000,
+        "TotalXpRequired": 750,
         "CustomLevelUpPopupText": "MAX LV!\n+Double Jump\n4% Ammo Refill\n4% Tool Refill\n8% Heal",
         "CustomLevelStatsText": "Class: Generalist\n{0}\nDamage 140%\nArmor 120%\nInfect Res. 20%\nHacking 200%\nTerminal Delay 50%\nTool Power 150%\nRepeller 150%\nSpeed 120%\nDouble Jump",
         "HealthMultiplier": 1,
@@ -1992,7 +1992,7 @@
       },
       {
         "LevelNumber": 1,
-        "TotalXpRequired": 150,
+        "TotalXpRequired": 100,
         "CustomLevelUpPopupText": "Lv Up!\nHacking +35%\nTerminal Delay -15%\nTool Power +15%\nRepeller +20%\n16% Tool Refill",
         "CustomLevelStatsText": "Class: Technician\n{0}\nHacking 155% -> 210%\nTerminal Delay 80% -> 60%\nTool Power 115% -> 130%\nRepeller 120% -> 140%",
         "HealthMultiplier": 1,
@@ -2008,7 +2008,7 @@
       },
       {
         "LevelNumber": 2,
-        "TotalXpRequired": 300,
+        "TotalXpRequired": 200,
         "CustomLevelUpPopupText": "Lv Up!\nHacking +35%\nTerminal Delay -15%\nTool Power +15%\nRepeller +20%\n16% Tool Refill",
         "CustomLevelStatsText": "Class: Technician\n{0}\nHacking 210% -> 265%\nTerminal Delay 60% -> 40%\nTool Power 130% -> 145%\nRepeller 140% -> 160%",
         "HealthMultiplier": 1,
@@ -2024,7 +2024,7 @@
       },
       {
         "LevelNumber": 3,
-        "TotalXpRequired": 450,
+        "TotalXpRequired": 300,
         "CustomLevelUpPopupText": "Lv Up!\nHacking +35%\nTerminal Delay -15%\nTool Power +15%\nRepeller +20%\n16% Tool Refill",
         "CustomLevelStatsText": "Class: Technician\n{0}\nHacking 265% -> 320%\nTerminal Delay 40% -> 20%\nTool Power 145% -> 160%\nRepeller 160% -> 180%",
         "HealthMultiplier": 1,
@@ -2040,7 +2040,7 @@
       },
       {
         "LevelNumber": 4,
-        "TotalXpRequired": 600,
+        "TotalXpRequired": 400,
         "CustomLevelUpPopupText": "Lv Up!\nHacking +35%\nTerminal Delay -15%\nTool Power +15%\nRepeller +20%\n16% Tool Refill",
         "CustomLevelStatsText": "Class: Technician\n{0}\nHacking 320% -> EZ\nTerminal Delay 20% -> Instant\nTool Power 160% > 175%\nRepeller 180% -> 200%",
         "HealthMultiplier": 1,
@@ -2056,7 +2056,7 @@
       },
       {
         "LevelNumber": 5,
-        "TotalXpRequired": 750,
+        "TotalXpRequired": 500,
         "CustomLevelUpPopupText": "MAX LV!\nEZ Hacking\nInstant Terminal Delay\n+15% Tool Power\n+20% Repeller\n16% Tool Refill",
         "CustomLevelStatsText": "Class: Technician\n{0}\nEZ Hacking\nInstant Terminals\nTool Power 175%\nRepeller 200%",
         "HealthMultiplier": 1,
@@ -2091,7 +2091,7 @@
       },
       {
         "LevelNumber": 1,
-        "TotalXpRequired": 150,
+        "TotalXpRequired": 100,
         "CustomLevelUpPopupText": "Lv Up!\nTool Power +15%\nRepeller +60%\n16% Tool Refill",
         "CustomLevelStatsText": "Class: Gas Breather\n{0}\nTool Power 115% -> 130%\nRepeller 160% -> 220%\nInfect Immune",
         "HealthMultiplier": 1,
@@ -2107,7 +2107,7 @@
       },
       {
         "LevelNumber": 2,
-        "TotalXpRequired": 300,
+        "TotalXpRequired": 200,
         "CustomLevelUpPopupText": "Lv Up!\nTool Power +15%\nRepeller +60%\n16% Tool Refill",
         "CustomLevelStatsText": "Class: Gas Breather\n{0}\nTool Power 130% -> 145%\nRepeller 220% -> 280%\nInfect Immune",
         "HealthMultiplier": 1,
@@ -2123,7 +2123,7 @@
       },
       {
         "LevelNumber": 3,
-        "TotalXpRequired": 450,
+        "TotalXpRequired": 300,
         "CustomLevelUpPopupText": "Lv Up!\nTool Power +15%\nRepeller +60%\n16% Tool Refill",
         "CustomLevelStatsText": "Class: Gas Breather\n{0}\nTool Power 145% -> 160%\nRepeller 280% -> 340%\nInfect Immune",
         "HealthMultiplier": 1,
@@ -2139,7 +2139,7 @@
       },
       {
         "LevelNumber": 4,
-        "TotalXpRequired": 600,
+        "TotalXpRequired": 400,
         "CustomLevelUpPopupText": "Lv Up!\nTool Power +15%\nRepeller +60%\n16% Tool Refill",
         "CustomLevelStatsText": "Class: Gas Breather\n{0}\nTool Power 160% > 175%\nRepeller 340% -> Global\nInfect Immune",
         "HealthMultiplier": 1,
@@ -2155,7 +2155,7 @@
       },
       {
         "LevelNumber": 5,
-        "TotalXpRequired": 750,
+        "TotalXpRequired": 500,
         "CustomLevelUpPopupText": "MAX LV!\n+15% Tool Power\nGlobal Fog Repeller\n16% Tool Refill",
         "CustomLevelStatsText": "Class: Gas Breather\n{0}\nTool Power 175%\nGlobal Fog Repeller\nInfect Immune",
         "HealthMultiplier": 1,
@@ -2195,7 +2195,7 @@
       },
       {
         "LevelNumber": 1,
-        "TotalXpRequired": 100,
+        "TotalXpRequired": 75,
         "CustomLevelUpPopupText": "Lv Up!\nSpeed +15%",
         "CustomLevelStatsText": "Class: Isolated\n{0}\nSpeed 115%\nDamage 100% -> 200%",
         "HealthMultiplier": 1,
@@ -2211,7 +2211,7 @@
       },
       {
         "LevelNumber": 2,
-        "TotalXpRequired": 200,
+        "TotalXpRequired": 150,
         "CustomLevelUpPopupText": "Lv Up!\nDamage +100%",
         "CustomLevelStatsText": "Class: Isolated\n{0}\nSpeed 115%\nDamage 200%\nArmor 100% -> 150%\nInfect Res. 0% -> 50%",
         "HealthMultiplier": 1,
@@ -2227,7 +2227,7 @@
       },
       {
         "LevelNumber": 3,
-        "TotalXpRequired": 300,
+        "TotalXpRequired": 225,
         "CustomLevelUpPopupText": "Lv Up!\nArmor +50%\nInfect Res. +50%",
         "CustomLevelStatsText": "Class: Isolated\n{0}\nSpeed 115%\nDamage 200%\nArmor 150%\nInfect Res. 50%\nRegen Speed 100% -> 200%\nRegen Cap 25 -> 50",
         "HealthMultiplier": 1,
@@ -2243,7 +2243,7 @@
       },
       {
         "LevelNumber": 4,
-        "TotalXpRequired": 400,
+        "TotalXpRequired": 300,
         "CustomLevelUpPopupText": "Lv Up!\nRegen Speed +100%\nRegen Cap +25",
         "CustomLevelStatsText": "Class: Isolated\n{0}\nSpeed 115%\nDamage 200%\nArmor 150%\nInfect Res. 50%\nRegen Speed 200%\nRegen Cap 50\nTool Power 100% -> 150%\nHacking 100% -> EZ\nTerminal Delay 100% -> Instant",
         "HealthMultiplier": 1,
@@ -2259,7 +2259,7 @@
       },
       {
         "LevelNumber": 5,
-        "TotalXpRequired": 500,
+        "TotalXpRequired": 375,
         "CustomLevelUpPopupText": "LV Up!\n+50% Tool Power\nEZ Hack\nInstant Terminals\n40% Ammo Refill\n40% Tool Refill\n40% Heal",
         "CustomLevelStatsText": "Class: Isolated\n{0}\nSpeed 115%\nDamage 200%\nArmor 150%\nInfect Res. 50%\nRegen Speed 200%\nRegen Cap 50\nTool Power 150%\nEZ Hack\nInstant Terminals\nJump -> Double Jump",
         "HealthMultiplier": 1,
@@ -2288,7 +2288,7 @@
       },
       {
         "LevelNumber": 6,
-        "TotalXpRequired": 600,
+        "TotalXpRequired": 450,
         "CustomLevelUpPopupText": "LV Up!\n+Double Jump",
         "CustomLevelStatsText": "Class: Isolated\n{0}\nSpeed 115%\nDamage 200%\nArmor 150%\nInfect Res. 50%\nRegen Speed 200%\nRegen Cap 50\nTool Power 150%\nEZ Hack\nInstant Terminals\nDouble Jump\nBioscan Speed 100% -> 150%",
         "HealthMultiplier": 1,
@@ -2304,7 +2304,7 @@
       },
       {
         "LevelNumber": 7,
-        "TotalXpRequired": 700,
+        "TotalXpRequired": 525,
         "CustomLevelUpPopupText": "LV Up!\n+50% Bioscan Speed",
         "CustomLevelStatsText": "Class: Isolated\n{0}\nSpeed 115% -> 130%\nDamage 200%\nArmor 150%\nInfect Res. 50%\nRegen Speed 200%\nRegen Cap 50\nTool Power 150%\nEZ Hack\nInstant Terminals\nDouble Jump\nBioscan Speed 150%",
         "HealthMultiplier": 1,
@@ -2320,7 +2320,7 @@
       },
       {
         "LevelNumber": 8,
-        "TotalXpRequired": 800,
+        "TotalXpRequired": 600,
         "CustomLevelUpPopupText": "LV Up!\n+15% Speed",
         "CustomLevelStatsText": "Class: Isolated\n{0}\nSpeed 130%\nDamage 200%\nArmor 150%\nInfect Res. 50% -> Immune\nRegen Speed 200%\nRegen Cap 50\nTool Power 150%\nEZ Hack\nInstant Terminals\nDouble Jump\nBioscan Speed 150%",
         "HealthMultiplier": 1,
@@ -2336,7 +2336,7 @@
       },
       {
         "LevelNumber": 9,
-        "TotalXpRequired": 900,
+        "TotalXpRequired": 675,
         "CustomLevelUpPopupText": "LV Up!\nInfect Immune",
         "CustomLevelStatsText": "Class: Isolated\n{0}\nSpeed 130%\nDamage 200%\nArmor 150%\nInfect Immune\nRegen Speed 200% -> 350%\nRegen Cap 50\nTool Power 150%\nEZ Hack\nInstant Terminals\nDouble Jump\nBioscan Speed 150%",
         "HealthMultiplier": 1,
@@ -2352,7 +2352,7 @@
       },
       {
         "LevelNumber": 10,
-        "TotalXpRequired": 1000,
+        "TotalXpRequired": 750,
         "CustomLevelUpPopupText": "MAX LV!\nGodlike Regeneration\n40% Ammo Refill\n40% Tool Refill\n40% Heal",
         "CustomLevelStatsText": "Class: Legendary\n{0}\nSpeed 130%\nDamage 200%\nArmor 150%\nInfect Immune\nRegen Speed 350%\nRegen Cap 50\nTool Power 150%\nEZ Hack\nInstant Terminals\nDouble Jump\nBioscan Speed 150%",
         "HealthMultiplier": 1,
