@@ -2181,14 +2181,14 @@
         "LevelNumber": 0,
         "TotalXpRequired": 0,
         "CustomLevelUpPopupText": null,
-        "CustomLevelStatsText": "Class: Isolated\n{0}\nSpeed 100% -> 115%",
+        "CustomLevelStatsText": "Class: Isolated\n{0}\nSpeed 150%\nDamage 250%",
         "HealthMultiplier": 1,
-        "MeleeDamageMultiplier": 1,
-        "WeaponDamageMultiplier": 1,
+        "MeleeDamageMultiplier": 2.5,
+        "WeaponDamageMultiplier": 2.5,
         "CustomScaling": [
           {
             "CustomBuff": "MovementSpeedMultiplier",
-            "Value": 1.15
+            "Value": 1.5
           }
         ],
         "LevelUpBonus": []
@@ -2196,15 +2196,15 @@
       {
         "LevelNumber": 1,
         "TotalXpRequired": 75,
-        "CustomLevelUpPopupText": "Lv Up!\nSpeed +15%",
-        "CustomLevelStatsText": "Class: Isolated\n{0}\nSpeed 115%\nDamage 100% -> 200%",
+        "CustomLevelUpPopupText": "Lv Up!",
+        "CustomLevelStatsText": "Class: Isolated\n{0}\nSpeed 150%\nDamage 250%",
         "HealthMultiplier": 1,
-        "MeleeDamageMultiplier": 1,
-        "WeaponDamageMultiplier": 1,
+        "MeleeDamageMultiplier": 2.5,
+        "WeaponDamageMultiplier": 2.5,
         "CustomScaling": [
           {
             "CustomBuff": "MovementSpeedMultiplier",
-            "Value": 1.15
+            "Value": 1.5
           }
         ],
         "LevelUpBonus": []
@@ -2212,15 +2212,15 @@
       {
         "LevelNumber": 2,
         "TotalXpRequired": 150,
-        "CustomLevelUpPopupText": "Lv Up!\nDamage +100%",
-        "CustomLevelStatsText": "Class: Isolated\n{0}\nSpeed 115%\nDamage 200%\nArmor 100% -> 150%\nInfect Res. 0% -> 50%",
+        "CustomLevelUpPopupText": "Lv Up!",
+        "CustomLevelStatsText": "Class: Isolated\n{0}\nSpeed 150%\nDamage 250%\nArmor 100% -> 150%\nInfect Res. 0% -> 50%",
         "HealthMultiplier": 1,
-        "MeleeDamageMultiplier": 2,
-        "WeaponDamageMultiplier": 2,
+        "MeleeDamageMultiplier": 2.5,
+        "WeaponDamageMultiplier": 2.5,
         "CustomScaling": [
           {
             "CustomBuff": "MovementSpeedMultiplier",
-            "Value": 1.15
+            "Value": 1.5
           }
         ],
         "LevelUpBonus": []
@@ -2229,14 +2229,14 @@
         "LevelNumber": 3,
         "TotalXpRequired": 225,
         "CustomLevelUpPopupText": "Lv Up!\nArmor +50%\nInfect Res. +50%",
-        "CustomLevelStatsText": "Class: Isolated\n{0}\nSpeed 115%\nDamage 200%\nArmor 150%\nInfect Res. 50%\nRegen Speed 100% -> 200%\nRegen Cap 25 -> 50",
+        "CustomLevelStatsText": "Class: Isolated\n{0}\nSpeed 150%\nDamage 250%\nArmor 150%\nInfect Res. 50%\nRegen Speed 100% -> 200%\nRegen Cap 25 -> 50",
         "HealthMultiplier": 1,
-        "MeleeDamageMultiplier": 2,
-        "WeaponDamageMultiplier": 2,
+        "MeleeDamageMultiplier": 2.5,
+        "WeaponDamageMultiplier": 2.5,
         "CustomScaling": [
           {
             "CustomBuff": "MovementSpeedMultiplier",
-            "Value": 1.15
+            "Value": 1.5
           }
         ],
         "LevelUpBonus": []
@@ -2245,14 +2245,14 @@
         "LevelNumber": 4,
         "TotalXpRequired": 300,
         "CustomLevelUpPopupText": "Lv Up!\nRegen Speed +100%\nRegen Cap +25",
-        "CustomLevelStatsText": "Class: Isolated\n{0}\nSpeed 115%\nDamage 200%\nArmor 150%\nInfect Res. 50%\nRegen Speed 200%\nRegen Cap 50\nTool Power 100% -> 150%\nHacking 100% -> EZ\nTerminal Delay 100% -> Instant",
+        "CustomLevelStatsText": "Class: Isolated\n{0}\nSpeed 150%\nDamage 250%\nArmor 150%\nInfect Res. 50%\nRegen Speed 200%\nRegen Cap 50\nTool Power 100% -> 150%\nHacking 100% -> EZ\nTerminal Delay 100% -> Instant",
         "HealthMultiplier": 1,
-        "MeleeDamageMultiplier": 2,
-        "WeaponDamageMultiplier": 2,
+        "MeleeDamageMultiplier": 2.5,
+        "WeaponDamageMultiplier": 2.5,
         "CustomScaling": [
           {
             "CustomBuff": "MovementSpeedMultiplier",
-            "Value": 1.15
+            "Value": 1.5
           }
         ],
         "LevelUpBonus": []
@@ -2260,29 +2260,29 @@
       {
         "LevelNumber": 5,
         "TotalXpRequired": 375,
-        "CustomLevelUpPopupText": "LV Up!\n+50% Tool Power\nEZ Hack\nInstant Terminals\n40% Ammo Refill\n40% Tool Refill\n40% Heal",
-        "CustomLevelStatsText": "Class: Isolated\n{0}\nSpeed 115%\nDamage 200%\nArmor 150%\nInfect Res. 50%\nRegen Speed 200%\nRegen Cap 50\nTool Power 150%\nEZ Hack\nInstant Terminals\nJump -> Double Jump",
+        "CustomLevelUpPopupText": "LV Up!\n+50% Tool Power\nEZ Hack\nInstant Terminals\n80% Ammo Refill\n80% Tool Refill\n80% Heal",
+        "CustomLevelStatsText": "Class: Isolated\n{0}\nSpeed 150%\nDamage 250%\nArmor 150%\nInfect Res. 50%\nRegen Speed 200%\nRegen Cap 50\nTool Power 150%\nEZ Hack\nInstant Terminals\nJump -> Double Jump",
         "HealthMultiplier": 1,
-        "MeleeDamageMultiplier": 2,
-        "WeaponDamageMultiplier": 2,
+        "MeleeDamageMultiplier": 2.5,
+        "WeaponDamageMultiplier": 2.5,
         "CustomScaling": [
           {
             "CustomBuff": "MovementSpeedMultiplier",
-            "Value": 1.15
+            "Value": 1.5
           }
         ],
         "LevelUpBonus": [
           {
             "SingleBuff": "AmmunitionMain",
-            "Value": 0.4
+            "Value": 0.8
           },
           {
             "SingleBuff": "AmmunitionSpecial",
-            "Value": 0.4
+            "Value": 0.8
           },
           {
             "SingleBuff": "Heal",
-            "Value": 0.4
+            "Value": 0.8
           }
         ]
       },
@@ -2290,14 +2290,14 @@
         "LevelNumber": 6,
         "TotalXpRequired": 450,
         "CustomLevelUpPopupText": "LV Up!\n+Double Jump",
-        "CustomLevelStatsText": "Class: Isolated\n{0}\nSpeed 115%\nDamage 200%\nArmor 150%\nInfect Res. 50%\nRegen Speed 200%\nRegen Cap 50\nTool Power 150%\nEZ Hack\nInstant Terminals\nDouble Jump\nBioscan Speed 100% -> 150%",
+        "CustomLevelStatsText": "Class: Isolated\n{0}\nSpeed 150%\nDamage 250%\nArmor 150%\nInfect Res. 50%\nRegen Speed 200%\nRegen Cap 50\nTool Power 150%\nEZ Hack\nInstant Terminals\nDouble Jump\nBioscan Speed 100% -> 150%",
         "HealthMultiplier": 1,
-        "MeleeDamageMultiplier": 2,
-        "WeaponDamageMultiplier": 2,
+        "MeleeDamageMultiplier": 2.5,
+        "WeaponDamageMultiplier": 2.5,
         "CustomScaling": [
           {
             "CustomBuff": "MovementSpeedMultiplier",
-            "Value": 1.15
+            "Value": 1.5
           }
         ],
         "LevelUpBonus": []
@@ -2306,14 +2306,14 @@
         "LevelNumber": 7,
         "TotalXpRequired": 525,
         "CustomLevelUpPopupText": "LV Up!\n+50% Bioscan Speed",
-        "CustomLevelStatsText": "Class: Isolated\n{0}\nSpeed 115% -> 130%\nDamage 200%\nArmor 150%\nInfect Res. 50%\nRegen Speed 200%\nRegen Cap 50\nTool Power 150%\nEZ Hack\nInstant Terminals\nDouble Jump\nBioscan Speed 150%",
+        "CustomLevelStatsText": "Class: Isolated\n{0}\nSpeed 150% -> 200%\nDamage 250%\nArmor 150%\nInfect Res. 50%\nRegen Speed 200%\nRegen Cap 50\nTool Power 150%\nEZ Hack\nInstant Terminals\nDouble Jump\nBioscan Speed 150%",
         "HealthMultiplier": 1,
-        "MeleeDamageMultiplier": 2,
-        "WeaponDamageMultiplier": 2,
+        "MeleeDamageMultiplier": 2.5,
+        "WeaponDamageMultiplier": 2.5,
         "CustomScaling": [
           {
             "CustomBuff": "MovementSpeedMultiplier",
-            "Value": 1.15
+            "Value": 1.5
           }
         ],
         "LevelUpBonus": []
@@ -2321,15 +2321,15 @@
       {
         "LevelNumber": 8,
         "TotalXpRequired": 600,
-        "CustomLevelUpPopupText": "LV Up!\n+15% Speed",
-        "CustomLevelStatsText": "Class: Isolated\n{0}\nSpeed 130%\nDamage 200%\nArmor 150%\nInfect Res. 50% -> Immune\nRegen Speed 200%\nRegen Cap 50\nTool Power 150%\nEZ Hack\nInstant Terminals\nDouble Jump\nBioscan Speed 150%",
+        "CustomLevelUpPopupText": "LV Up!\n+50% Speed",
+        "CustomLevelStatsText": "Class: Isolated\n{0}\nSpeed 200%\nDamage 250%\nArmor 150%\nInfect Res. 50% -> Immune\nRegen Speed 200%\nRegen Cap 50\nTool Power 150%\nEZ Hack\nInstant Terminals\nDouble Jump\nBioscan Speed 150%",
         "HealthMultiplier": 1,
-        "MeleeDamageMultiplier": 2,
-        "WeaponDamageMultiplier": 2,
+        "MeleeDamageMultiplier": 2.5,
+        "WeaponDamageMultiplier": 2.5,
         "CustomScaling": [
           {
             "CustomBuff": "MovementSpeedMultiplier",
-            "Value": 1.3
+            "Value": 2.0
           }
         ],
         "LevelUpBonus": []
@@ -2338,14 +2338,14 @@
         "LevelNumber": 9,
         "TotalXpRequired": 675,
         "CustomLevelUpPopupText": "LV Up!\nInfect Immune",
-        "CustomLevelStatsText": "Class: Isolated\n{0}\nSpeed 130%\nDamage 200%\nArmor 150%\nInfect Immune\nRegen Speed 200% -> 350%\nRegen Cap 50\nTool Power 150%\nEZ Hack\nInstant Terminals\nDouble Jump\nBioscan Speed 150%",
+        "CustomLevelStatsText": "Class: Isolated\n{0}\nSpeed 200%\nDamage 250%\nArmor 150%\nInfect Immune\nRegen Speed 200% -> 350%\nRegen Cap 50\nTool Power 150%\nEZ Hack\nInstant Terminals\nDouble Jump\nBioscan Speed 150%",
         "HealthMultiplier": 1,
-        "MeleeDamageMultiplier": 2,
-        "WeaponDamageMultiplier": 2,
+        "MeleeDamageMultiplier": 2.5,
+        "WeaponDamageMultiplier": 2.5,
         "CustomScaling": [
           {
             "CustomBuff": "MovementSpeedMultiplier",
-            "Value": 1.3
+            "Value": 2.0
           }
         ],
         "LevelUpBonus": []
@@ -2353,29 +2353,29 @@
       {
         "LevelNumber": 10,
         "TotalXpRequired": 750,
-        "CustomLevelUpPopupText": "MAX LV!\nGodlike Regeneration\n40% Ammo Refill\n40% Tool Refill\n40% Heal",
-        "CustomLevelStatsText": "Class: Legendary\n{0}\nSpeed 130%\nDamage 200%\nArmor 150%\nInfect Immune\nRegen Speed 350%\nRegen Cap 50\nTool Power 150%\nEZ Hack\nInstant Terminals\nDouble Jump\nBioscan Speed 150%",
+        "CustomLevelUpPopupText": "MAX LV!\nGodlike Regeneration\n80% Ammo Refill\n80% Tool Refill\n80% Heal",
+        "CustomLevelStatsText": "Class: Legendary\n{0}\nSpeed 200%\nDamage 250%\nArmor 150%\nInfect Immune\nRegen Speed 350%\nRegen Cap 50\nTool Power 150%\nEZ Hack\nInstant Terminals\nDouble Jump\nBioscan Speed 150%",
         "HealthMultiplier": 1,
-        "MeleeDamageMultiplier": 2,
-        "WeaponDamageMultiplier": 2,
+        "MeleeDamageMultiplier": 2.5,
+        "WeaponDamageMultiplier": 2.5,
         "CustomScaling": [
           {
             "CustomBuff": "MovementSpeedMultiplier",
-            "Value": 1.3
+            "Value": 2.0
           }
         ],
         "LevelUpBonus": [
           {
             "SingleBuff": "AmmunitionMain",
-            "Value": 0.4
+            "Value": 0.8
           },
           {
             "SingleBuff": "AmmunitionSpecial",
-            "Value": 0.4
+            "Value": 0.8
           },
           {
             "SingleBuff": "Heal",
-            "Value": 0.4
+            "Value": 0.8
           }
         ]
       }
