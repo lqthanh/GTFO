@@ -2175,7 +2175,7 @@
     "Header": "Isolated",
     "GroupPersistentId": 3,
     "PersistentId": 14,
-    "InfoText": "You are the last alive. Stay alive at all costs and complete the mission.\nLV 5 & Max LV 10 bonus: +40% Ammo Refill, +40% Tool Refill, +40% Heal\n\nPerks Each Level:\nLV1: Speed Demon\nLV2: Damage Amp\nLV3: Endurance\nLV4: Regeneration\nLV5: Technician\nLV6: Double Jump\nLV7: +50% Bioscan Speed\nLV8: Speed Demon II\nLV9: Gas Breather\nLV10: Godlike Regeneration",
+    "InfoText": "You are the last alive. Stay alive at all costs and complete the mission.\nLV 5 & Max LV 10 bonus: +80% Ammo Refill, +80% Tool Refill, +80% Heal\n\nPerks Each Level:\nLV1: Speed Demon\nLV2: Damage Amp\nLV3: Endurance\nLV4: Regeneration\nLV5: Technician\nLV6: Double Jump\nLV7: +50% Bioscan Speed\nLV8: Speed Demon II\nLV9: Gas Breather\nLV10: Godlike Regeneration",
     "Levels": [
       {
         "LevelNumber": 0,
