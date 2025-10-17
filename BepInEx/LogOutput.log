@@ -5,12 +5,97 @@
 [Info   :   BepInEx] Running under Unity 2019.4.21f1
 [Info   :   BepInEx] Runtime version: 6.0.7
 [Info   :   BepInEx] Runtime information: .NET 6.0.7
+[Info   :InteropManager] Detected outdated interop assemblies, will regenerate them now
+[Message:InteropManager] Downloading unity base libraries
+[Message:InteropManager] Extracting downloaded unity base libraries
+[Message:InteropManager] Running Cpp2IL to generate dummy assemblies
+[Info   :    Cpp2IL] [Library] Initializing Metadata...
+[Info   :    Cpp2IL] [Library] Using actual IL2CPP Metadata version 24.5
+[Info   :    Cpp2IL] [Library] Initialized Metadata in 294ms
+[Info   :    Cpp2IL] [Library] Using binary type Portable Executable (from LibCpp2IL)
+[Info   :    Cpp2IL] [Library] Searching Binary for Required Data...
+[Info   :    Cpp2IL] [Library] Got Binary codereg: 0x182DD1770, metareg: 0x182DD1CD0 in 52ms.
+[Info   :    Cpp2IL] [Library] Initializing Binary...
+[Info   :    Cpp2IL] [Library] Initialized Binary in 150ms
+[Info   :    Cpp2IL] [Library] Mapping Globals...
+[Info   :    Cpp2IL] [Library] OK (46ms)
+[Info   :    Cpp2IL] [Library] Mapping pointers to Il2CppMethodDefinitions...
+[Info   :    Cpp2IL] [Library] Processed 97130 OK (28ms)
+[Info   :    Cpp2IL] [Program] Creating application model...
+[Info   :    Cpp2IL] [Program] Application model created in 894.1873ms
+[Info   :InteropManager] Cpp2IL finished in 00:00:05.0456291
+[Info   :InteropManager] Generating interop assemblies
+[Info   :Il2CppInteropGen] Reading assemblies...
+[Info   :Il2CppInteropGen] Done in 00:00:00.0285056
+[Info   :Il2CppInteropGen] Reading unity assemblies...
+[Info   :Il2CppInteropGen] Done in 00:00:00.0152712
+[Info   :Il2CppInteropGen] Creating rewrite assemblies...
+[Info   :Il2CppInteropGen] Done in 00:00:00.0113027
+[Info   :Il2CppInteropGen] Computing renames...
+[Info   :Il2CppInteropGen] Done in 00:00:00.0407278
+[Info   :Il2CppInteropGen] Creating typedefs...
+[Info   :Il2CppInteropGen] Done in 00:00:00.0473823
+[Info   :Il2CppInteropGen] Computing struct blittability...
+[Info   :Il2CppInteropGen] Done in 00:00:00.0760443
+[Info   :Il2CppInteropGen] Filling typedefs...
+[Info   :Il2CppInteropGen] Done in 00:00:00.0542694
+[Info   :Il2CppInteropGen] Filling generic constraints...
+[Info   :Il2CppInteropGen] Done in 00:00:00.0051820
+[Info   :Il2CppInteropGen] Creating members...
+[Info   :Il2CppInteropGen] Done in 00:00:02.0964067
+[Info   :Il2CppInteropGen] Scanning method cross-references...
+[Info   :Il2CppInteropGen] Done in 00:00:00.6793777
+[Info   :Il2CppInteropGen] Finalizing method declarations...
+[Info   :Il2CppInteropGen] Done in 00:00:01.8030457
+[Info   :Il2CppInteropGen] 12 total potentially dead methods
+[Info   :Il2CppInteropGen] Filling method parameters...
+[Info   :Il2CppInteropGen] Done in 00:00:00.4122435
+[Info   :Il2CppInteropGen] Creating static constructors...
+[Info   :Il2CppInteropGen] Done in 00:00:00.5285621
+[Info   :Il2CppInteropGen] Creating value type fields...
+[Info   :Il2CppInteropGen] Done in 00:00:00.0423218
+[Info   :Il2CppInteropGen] Creating enums...
+[Info   :Il2CppInteropGen] Done in 00:00:00.0636279
+[Info   :Il2CppInteropGen] Creating IntPtr constructors...
+[Info   :Il2CppInteropGen] Done in 00:00:00.2196696
+[Info   :Il2CppInteropGen] Creating non-blittable struct constructors...
+[Info   :Il2CppInteropGen] Done in 00:00:00.0213079
+[Info   :Il2CppInteropGen] Creating generic method static constructors...
+[Info   :Il2CppInteropGen] Done in 00:00:00.0350365
+[Info   :Il2CppInteropGen] Creating field accessors...
+[Info   :Il2CppInteropGen] Done in 00:00:01.2446620
+[Info   :Il2CppInteropGen] Filling methods...
+[Info   :Il2CppInteropGen] Done in 00:00:02.1523513
+[Info   :Il2CppInteropGen] Generating implicit conversions...
+[Info   :Il2CppInteropGen] Done in 00:00:00.0221220
+[Info   :Il2CppInteropGen] Creating properties...
+[Info   :Il2CppInteropGen] Done in 00:00:00.1016400
+[Info   :Il2CppInteropGen] Unstripping types...
+[Info   :Il2CppInteropGen] Done in 00:00:00.0508274
+[Info   :Il2CppInteropGen] Unstripping fields...
+[Info   :Il2CppInteropGen] Restored 616 fields
+[Info   :Il2CppInteropGen] Failed to restore 4 fields
+[Info   :Il2CppInteropGen] Done in 00:00:00.0096433
+[Info   :Il2CppInteropGen] Unstripping methods...
+[Info   :Il2CppInteropGen] Restored 14470 methods
+[Info   :Il2CppInteropGen] Failed to restore 867 methods
+[Info   :Il2CppInteropGen] Done in 00:00:00.5587048
+[Info   :Il2CppInteropGen] Unstripping method bodies...
+[Info   :Il2CppInteropGen] IL unstrip statistics: 6720 successful, 2523 failed
+[Info   :Il2CppInteropGen] Done in 00:00:01.1085286
+[Info   :Il2CppInteropGen] Writing xref cache...
+[Info   :Il2CppInteropGen] Done in 00:00:01.7618547
+[Info   :Il2CppInteropGen] Writing assemblies...
+[Info   :Il2CppInteropGen] Done in 00:00:01.5154373
+[Info   :Il2CppInteropGen] Writing method pointer map...
+[Info   :Il2CppInteropGen] Done in 00:00:00.0314626
+[Info   :Il2CppInteropGen] Done!
 [Info   : Preloader] 0 patcher plugins loaded
 [Info   : Preloader] 0 assemblies discovered
 [Message:AssemblyPatcher] Executing 0 patch(es)
 [Message:   BepInEx] Chainloader initialized
 [Info   :Il2CppInterop] Registered mono type Il2CppInterop.Runtime.DelegateSupport+Il2CppToMonoDelegateReference in il2cpp domain
-[Info   :   BepInEx] 17 plugins to load
+[Info   :   BepInEx] 18 plugins to load
 [Info   :   BepInEx] Loading [GTFO-API 0.5.0]
 [Info   :Il2CppInterop] Registered mono type GTFO.API.Impl.NetworkAPI_Impl in il2cpp domain
 [Info   :Il2CppInterop] Registered mono type GTFO.API.Impl.AssetAPI_Impl in il2cpp domain
@@ -18,6 +103,10 @@
 [Info   :Il2CppInterop] Registered mono type GTFO.API.Utilities.Impl.ThreadDispatcher_Impl in il2cpp domain
 [Info   :Il2CppInterop] Registered mono type GTFO.API.Utilities.Impl.CoroutineDispatcher_Impl in il2cpp domain
 [Warning:  GTFO-API] [GTFO-API]: Syringes are currently disabled in this version
+[Info   :   BepInEx] Loading [BetterBioTracker 1.0.0]
+[Info   :Il2CppInterop] Registered mono type BetterBioTracker.Comps.RadarScreenItem in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type BetterBioTracker.Comps.BioScreenRef in il2cpp domain
+[Info   :Il2CppInterop] Registered mono type BetterBioTracker.Comps.BetterBio in il2cpp domain
 [Info   :   BepInEx] Loading [FloatingTextAPI 1.0.5]
 [Warning:Il2CppInterop] Method Void Setup(FloatingTextAPI.IFloatingTextInfo) on type FloatingTextAPI.FloatingTextBase has unsupported parameter FloatingTextAPI.IFloatingTextInfo info of type FloatingTextAPI.IFloatingTextInfo
 [Warning:Il2CppInterop] Method Void SetText(System.String, FloatingTextAPI.IFloatingTextInfo) on type FloatingTextAPI.FloatingTextBase has unsupported parameter FloatingTextAPI.IFloatingTextInfo info of type FloatingTextAPI.IFloatingTextInfo
@@ -63,7 +152,6 @@
 [Info   :Il2CppInterop] Registered mono type GTFuckingXP.Scripts.DevTools in il2cpp domain
 [Info   :   BepInEx] Loading [XpExpansions 1.0.0]
 [Info   :Il2CppInterop] Registered mono type XpExpansions.Scripts.ClientSidedBioTrackerAbility in il2cpp domain
-[Info   :   BepInEx] Loading [GTFO.LobbyExpansion 1.2.0]
 [Info   :   BepInEx] Loading [LocaliaCore 3.0.0]
 [Info   :Il2CppInterop] Registered mono type LocaliaCore.LocaliaCore_Moniter in il2cpp domain
 [Message:LocaliaCore] OK
@@ -76,22 +164,27 @@
 [Info   :Il2CppInterop] Registered mono type ResourceHelper.Res_Moniter in il2cpp domain
 [Message:Localia.ResourceHelper] OK
 [Info   :   BepInEx] Loading [RunAndGun 1.0.1]
+[Info   :   BepInEx] Loading [ShowSentryAmmoPercentage 1.0.0]
 [Info   :   BepInEx] Loading [Weapon Stat Shower 1.4.0]
 [Info   :Weapon Stat Shower] STARTED
 [Info   :Weapon Stat Shower] Applying patch: ShowStat
 [Message:   BepInEx] Chainloader startup complete
 [Warning:GTFuckingXP] No custom MTFO folder found, using assembly path...
-[Info   :Il2CppInterop] Registered mono type BepInEx.Unity.IL2CPP.Utils.Collections.Il2CppManagedEnumerator in il2cpp domain
 [Info   :Il2CppInterop] Registered mono type MTFO.Custom.CCP.Components.CorePuzzleData in il2cpp domain
 [Info   :Il2CppInterop] Registered mono type MTFO.Custom.CCP.Components.ClusterPuzzleData in il2cpp domain
 [Warning:  EndskApi] There was no informaiton with the key AnchorDifferenceKey
 [Warning:GTFuckingXP] Saved layout to D:\SteamLibrary\steamapps\common\GTFO\BepInEx\GameData/Favorites\XPData.json
+[Info   :Il2CppInterop] Registered mono type BepInEx.Unity.IL2CPP.Utils.Collections.Il2CppManagedEnumerator in il2cpp domain
 [Warning:  EndskApi] There was no informaiton with the key GTFuckingXP.Scripts.XpHandler
 [Warning:  EndskApi] There was no informaiton with the key 76561199065924838
+[Warning:  EndskApi] There was no informaiton with the key MovementSpeedMultiplier
+[Error  :      MTFO] Achievement Completion Blocked: ACH_25
+[Error  :      MTFO] Achievement Completion Blocked: ACH_28
+[Error  :      MTFO] Achievement Completion Blocked: ACH_28
+[Error  :      MTFO] Achievement Completion Blocked: ACH_28
+[Error  :      MTFO] Achievement Completion Blocked: ACH_28
+[Error  :      MTFO] Achievement Completion Blocked: ACH_16
 [Warning:  EndskApi] There was no informaiton with the key GTFuckingXP.Scripts.DevModeTools
-[Error  :Il2CppInterop] During invoking native->managed trampoline
-Exception: System.NullReferenceException: Object reference not set to an instance of an object.
-   at GTFuckingXP.Managers.CustomScalingBuffManager.ResetCustomBuffs(PlayerAgent targetAgent)
-   at GTFuckingXP.Managers.ScriptManager.EndLevelScripts()
-   at DMD<GS_AfterLevel::CleanupAfterExpedition>()
-   at (il2cpp -> managed) CleanupAfterExpedition(Il2CppMethodInfo* )
+[Warning:GTFuckingXP] Saved layout to D:\SteamLibrary\steamapps\common\GTFO\BepInEx\GameData/Favorites\XPData.json
+[Warning:GTFuckingXP] Saved layout to D:\SteamLibrary\steamapps\common\GTFO\BepInEx\GameData/Favorites\XPData.json
+[Warning:GTFuckingXP] Saved layout to D:\SteamLibrary\steamapps\common\GTFO\BepInEx\GameData/Favorites\XPData.json
